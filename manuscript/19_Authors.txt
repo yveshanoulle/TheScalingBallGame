@@ -1,15 +1,8 @@
 # About the authors {#Acknowledgments}
 
-![Yves & Ignace](images/YvesIgnace.jpg)
+![Yves](images/YvesIgnace.jpg)
 
-
-**Ignace Hanoulle:** 
-
-started as Civil engineer in IT in 1976. Now working as psychologist with
-strong interest in system thinking. Advanced training in leading groups. 20 year experience
-as counselor of experienced based groups.
-Ignace invented the term PairCoaching.
-
+**Markus Wissekal:**
 
 **Yves Hanoulle:**
 
@@ -42,7 +35,6 @@ If you are interested in agile, you might want to [buy the leanpub agile bundle]
 
 You can find me on social media as YvesHanoulle
 
-
 Contact Data Yves:
 
 * [Personal website](http://www.hanoulle.be)
@@ -60,5 +52,4 @@ Contact Data Yves:
 **Snail mail:**
 
 Objectsoft bvba
-
 Congregatiestraat 16 9031 Drongen

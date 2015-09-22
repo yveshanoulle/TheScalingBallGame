@@ -2,11 +2,4 @@
 
 This is a list of the countries we know the game was played.
 
-+ Belgium
-+ Canada
-+ Denmark 
 + France
-+ Italy 
-+ Netherlands 
-+ Switzerland 
-+ US

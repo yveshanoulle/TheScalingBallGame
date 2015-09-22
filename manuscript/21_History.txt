@@ -1,22 +1,9 @@
 # History {#History}
 
-This game was invented in 2004. After a try out, it was played an event of the XP community in the Netherlands.
-This game was well received and then played at Agile conferences around the world. 
-Yves & Ignace where invited 4 years in a row to play the game at XPDay France, every time we played the game, we had to refuse people at the door. 
+This game was invented in 2015. After a try out, it was played an event of the XP community in the Netherlands.
 
 **Versions**
  
-+ Version 1.0 2004
-+ Version 2.0 November 2005 Added PairCoaching idea's to the Dutch Version
-+ Version 3.0 June 2008
-+ Version 3.01 July 2008 (Minor edits)
-+ Version 3.02 July 2008 (Added new url)
-+ Version 4.0 October 2009 Recreated the document on google docs. Document reviewed.
-+ Version 4.01 May 2010 (Zip file instead of 1 pdf, translated PairCoaching in English, added pictures, updated
-license)
-+ Version 4.02 July 2010 Added Agile Games google group and Gamestorming Book reference
-+ Version 5.00 02 July 2013 Leanpub booklet version
-+ Version 5.03 04 July 2013 bug fixes based on feedback leanpub readers.
-+ Version 5.04 05 July 2013 bug fixes based on feedback leanpub readers + Added 10 recommendation about the game that Yves received over the years on linkedin.
-+ Version 5.06 10 July 2013 bug fixes based on feedback leanpub readers + Added 3 more recommendation about the game that Yves received over the years on linkedin.
-+ Version 5.08 21 July 2013 bug fixes based on feedback leanpub readers + Added Foreword from Laurent Bossavit.
++ Version 0.1 2015 Idea
++ Version 0.2 2015 Book version
++ Version 0.3 2015 Agile Tour Lille
