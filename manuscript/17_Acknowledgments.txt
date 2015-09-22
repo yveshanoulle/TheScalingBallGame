@@ -1,0 +1,34 @@
+# Acknowledgments {#Acknowledgments}
+
+We would like to **THANK**: 
+
++ You for buying and reading this book so far. 
++ everyone that has played this game since we invented it in 2004.
++ [Vera Peeters](http://www.Tryx.com) & [Pascal Van Cauwenberghe](http://www.nayima.be) for inspiration. 
+
+**People that have given numerous tips:**
+
++ Els Ryssen
++ Vera Peeters
++ [Michael Sahota](http://www.agilitrix.com)
++ [Portia Tung]( http://www.selfishprogramming.com)
++ Pascal Van Cauwenberghe
+
+**Document reviewers:**
+
++ Els Ryssen
++ [Michael Sahota](https://twitter.com/MichaelSahota)
++ [Harold Shinsato]( http://shinsato.com/blog/ )
++ [Meike Mertsch](https://twitter.com/meikemertsch)
+
+**Everyone who invited us to have this game played at their conference or company.**
+
+Special thanks to the people from XP Day France (now agile France) where we were invited to play the game 4 years in a row.
+
+Pennier F. Henriksen: Allborg University Denmark for playing the game in a non agile environment.
+
+**Pictures:**
+
++ Els Ryssen: all the pictures used in this booklet, except where mentioned different.
++ [Smetty](http://www.smetty.be) : for the picture of Yves & Ignace
++ Mateo: for the PairCoaching picture of Yves & Els
