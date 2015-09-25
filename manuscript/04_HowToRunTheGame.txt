@@ -1,4 +1,37 @@
-# How to run the game {#HowToRunTheGame}##1 Introduction from TrainersPreferable, the trainers sit so that they can see eachother. (And not next to eachother as is usually done by pairtrainers.)What we say: + Who are we + What connection do we have with the subject+ What connection do we have with the group. + What have we learned about leadership. + What connection do we have with each other.*Trainer 1 starts, then trainer 2.*
+# How to run the Scaling ball game  {#HowToRunTheGame}
+
+The agile game we are basing our self on is the ball game. we will have multiple teams that have to send balls to other teams.
+
+
+Round 1: one of the outcomes of the first round is a team velocity. we expect them to keep it, in later games. When they deliver less balls they are punished. (by adding a supervisor)  
+Round 2: multiple rounds solving different scaling issues with a partner team (total 20 minutes)  
+Iteration 1: (5 minutes)
+we have a red team and a blue team
+the red team passes red balls like normal and then at the end the red ball has to be passed to the start the the blue team, where it has to pass all the way.
+At the same time the blue team passes a blue ball around and at the end passes the blue ball to the red team. Point are only given for a ball that passes in every teams hand.
+Iteration 2 (5 minutes) 
+you are “done” as soon as you’ve thrown the ball somewhere in the direction of the other team -> not responsible for them to actually catch it - here we could have one person per team, that “finishes” the round, as soon as he has thrown the ball to the other group -> strong desynchronisation)
+the special catch of this iteration is the limited amount of balls teams have, so they have to catch the balls or run after them.
+small retrospective (5 minutes)
+iteration 3 (5 minutes): replay iteration 2 with a new strategy 
+Round 3: 
+Iteration 4 (5 minutes): replay iteration 3 with 4 teams
+small retrospective (5 minutes) (focus on standardisation of the strategy
+Iteration 5 (5 minutes): replay iteration 4 
+Round 4: 
+iteration 6 (5 minutes): one of the teams is behind a screen
+optional difficulties:
+left handed people are only allowed to send to other left handed people 
+when a ball falls on the ground, no one can use it any longer
+when one red ball falls on the ground, all red balls have to leave the system
+you get the number of balls of your estimation
+you get punished for delivering less
+you can’t deliver more (because you lack balls)
+one team member has to be blindfolded 
+people have to pick one hand to catch and put one hand on their forehead 
+you can only throw or catch with one hand , you have to switch hands for the other action. 
+and many more….
+##1 Introduction from TrainersPreferable, the trainers sit so that they can see each other. (And not next to each other as is usually done by pairtrainers.)What we say: + Who are we + What connection do we have with the subject+ What connection do we have with the group. + What have we learned about scaling. + What connection do we have with each other.*Trainer 1 starts, then trainer 2.*
 **Till 0:05. ( .. : .. )**##2 Short round table:*Trainer 2 continues here*+ Who are you?+ What is important we know about you?+ What makes you different from the rest of the group?Make sure everyone speaks. Also make sure no one talks too long. If a team lead says something like, and "everyone else is the same", make sure to react to that and say; yes and still I think it is important to hear everyone else's voice. When it's a new group and you will work more with this group, make sure you repeat the persons name. You will remember their name better if you repeat their name in the first 5 minutes. Thank everyone after they introduced themselves. (Combine this with their name: "thank you Els")*When every participant, speaks in the first 10 minutes, they'll all engage more in the rest of the training/meeting.##3 Introduction of the Game:![You have to get into the sea, to get wet](images/GeikeSea.jpg)*Trainer 1*
 
 Today we are going to do three assignments that look similar but that are on some essential parts very different. You can see these assignments as a game, if you take this game serious, you will have lots of fun and learn a lot. We ask you to be very alert of what you feel. At the end we will ask you which of the three situations you preferred and why. It is our intent that you learn something about yourself and about leadership in general. We want to invite you to play as serious as a child would do. **You don't have to believe in the sea to get wet, you just have to get in. Enjoy** We will need 2 volunteers to play leaders in the first part. *(These days we tell them we look for people who want to experiment with directive leadership. As a facilitator, it is your choice to tell them this upfront or not.)* 
