@@ -2,18 +2,16 @@
 01_Foreword.txt
 02_Abstract.txt
 03_TrainerInstructions.txt
-04_HowToRunTheGame.txt
-05_SchedulePlayers.txt
+04_BallGames.txt
+04a_TheBallPointGame.txt
+04b_TheOneBallPointGame.txt
+04z_HowToRunTheScalingBallGame.txt
+
 
 06_Observation.txt
 07_Feedback.txt
-08_QuestionsGame1.txt
-09_QuestionsGame2.txt
-10_QuestionsGame3.txt
 
-11_PairCoaching.txt
-12_ContemplationsOnLeadership.txt
-13_TheRoseofAxes.txt
+
 14_Library.txt
 15_Supplies.txt
 

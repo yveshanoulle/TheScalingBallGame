@@ -3,11 +3,11 @@
 We would like to **THANK**: 
 
 + You for buying and reading this book so far. 
-+ everyone that has played this game since we invented it in 2004.
-+ [Vera Peeters](http://www.Tryx.com) & [Pascal Van Cauwenberghe](http://www.nayima.be) for inspiration. 
++ everyone that has played this game since we invented it in 2015.
+
++ [Boris Gloger](https://borisgloger.com) for the great Ball point game that inspired us.
 
 **People that have given numerous tips:**
-
 
 
 **Document reviewers:**
@@ -15,7 +15,7 @@ We would like to **THANK**:
 
 **Everyone who invited us to have this game played at their conference or company.**
 
-
-**Pictures:**
-
-+ Els Ryssen: all the pictures used in this booklet, except where mentioned different.
+- Agile Tour Lille 2015
+- Openminds team event
+- Game Facilitation Lab 
+- XP Day Benelux 2015
