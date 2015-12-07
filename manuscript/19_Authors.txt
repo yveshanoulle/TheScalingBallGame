@@ -1,6 +1,6 @@
 # About the authors {#Acknowledgments}
 
-![Yves](images/YvesIgnace.jpg)
+
 
 **Markus Wissekal:**
 
@@ -12,11 +12,13 @@ Yearly I spend at least 10 % of my revenue on training and books (You can find d
 
 
 After my father invented the term PairCoaching, I started to use it to  promote pairwork.
-When I donít work as an agile coach helping companies in EMEA, talking at conferences around the world about agile or the core protcols, Iím using
-agile ideaís to raise my 3 kids. (And I use what I learn from them when I work with teams.)
+When I don’t work as an agile coach helping companies in EMEA, talking at conferences around the world about agile or the core protocols, I’m using
+agile idea’s to raise my 3 kids. (And I use what I learn from them when I work with teams.)
 
 Since December 2012, I work from a [walking desk](http://www.hanoulle.be/2013/02/im-working-from-a-walking-desk/). 
 Check out the link to see how many steps I took since then. 
+
+I’m a big fan of parent pair work with their children. I have already given a presentation with my whole family in 2011 and since December 2014, I’m giving pair presentations with my oldest son Joppe. 
 
 **Collaboration projects**
 
@@ -32,8 +34,6 @@ Check out the link to see how many steps I took since then.
 You can find my books at http://www.hanoulle.be/books
 If you are interested in agile, you might want to [buy the leanpub agile bundle](https://www.leanpub.com/b/agile)
 
-
-You can find me on social media as YvesHanoulle
 
 Contact Data Yves:
 

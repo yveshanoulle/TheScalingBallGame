@@ -3,3 +3,5 @@
 This version is a little bit different then the original Ball point game. It’s a game you can play with only one ball. As an agile coach, I make sure I always have one ball in my backpack. This allows me to play this version of the game at any moment. 
 
 
+
+<TODO> Add ONE BallPoint Game + difference with ball point game
