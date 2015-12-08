@@ -5,7 +5,9 @@
 04_BallGames.txt
 04a_TheBallPointGame.txt
 04b_TheOneBallPointGame.txt
-04z_HowToRunTheScalingBallGame.txt
+04y_HowToRunTheScalingBallGame.txt
+04z_HowToRunTheScalingBallGameInASmallGroup.txt
+05_ThingsLearned.txt
 
 
 06_Observation.txt
