@@ -18,8 +18,8 @@ Attendees will face a series of typical scaling challenges like:
 ##What did the session creators hope to learn?
 
 These days we have a few models for scaling teams. 
-With this game we want to experience scaling and observe what is happening. 
-With the different exercises we currently have and other we hope to invent, we hope to learn more about scaling dynamics.
+With this game we want to help participants experience common scaling issues and observe how they affect them. 
+With the exercises in this book and others we hope to find, we hope to learn more about scaling dynamics.
 
 ##Process and timetable: 
 
