@@ -8,6 +8,7 @@
 ##Expected benefits of participating
 
 Attendees will face a series of typical scaling challenges like: 
+
 + team synchronisation
 + efficiency
 + standardisation
@@ -23,7 +24,6 @@ With the different exercises we currently have and other we hope to invent, we h
 ##Process and timetable: 
 
 + total time 90 min
-
 + Introduction to scaling issues:  5 minutes
 + Round 1: warm up in local teams 5 minutes
 + Round 2: multiple rounds solving different scaling issues with a partner team (total 20 minutes)  
