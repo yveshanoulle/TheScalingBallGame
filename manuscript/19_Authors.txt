@@ -1,8 +1,37 @@
 # About the authors {#Acknowledgments}
 
 
-
 **Markus Wissekal:**
+I started working in IT in 1999. My journey to become agile began as the technical lead of a start-up in 2002. 
+Skip ahead 5 years I finished my masters in medical computer sciences, 
+when I became more interested in creating effective teams than software. 
+Nowadays I've broadened my skills to also coach departments in an enterprise environment. 
+
+I'm a part of agile rescue, a losely coupled network of agile experts spread throughout europe.
+
+I love sharing my experiences - especially, but not limited to  agile topics that are dear to my heart. You probably won't have to keep that in mind, when ever you should meet me at a conference ;-)
+
+Markus' Contact Data:
+
+* [Blog](http://www.agilerescue.de)
+* [Twitter](http://www.twitter.com/themaxxmaster)
+* [Slides](http://www.slideshare.net/themaxxmaster)
+* [Video](http://www.youtube.com/user/themaxxmaster)
+* [Linkedin](https://ch.linkedin.com/in/mwissekal)
+
+* +41 78 8787250
+* +43 699 10182350
+
+* Skype: themaxxmaster
+* Email: markus.wissekal@kanban.today
+
+**Snail mail:**
+
+Markus Wissekal Consulting
+Feldblumenstrasse 7
+8048 Zürich
+
+
 
 **Yves Hanoulle:**
 
@@ -35,7 +64,7 @@ You can find my books at http://www.hanoulle.be/books
 If you are interested in agile, you might want to [buy the leanpub agile bundle](https://www.leanpub.com/b/agile)
 
 
-Contact Data Yves:
+Yves' Contact Data:
 
 * [Personal website](http://www.hanoulle.be)
 * [Twitter](http://www.twitter.com/YvesHanoulle)
