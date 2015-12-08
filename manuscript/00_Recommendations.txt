@@ -1,9 +1,10 @@
 # Recommendations {#Recommendations}
 
-+ It really is a great example of the scaling issues (anonymous feedback at XPDays)
++ It really is a great example of the scaling issues 
+(anonymous feedback at XPDays)
 
-+ It was fun (anonymous feedback at XPDays)
++ It was fun 
+(anonymous feedback at XPDays)
 
 + Do you want to know upfront what is going to happen with your Distributed Scrum Teams? The Ball Point Game is one of the better games to play. During my last experience with Yves I was surprised that even I stepped into the old mistake; out of sight out of mind. What a simple physical whiteboard can do when you put it between two Ball point teams is amazing.
-
-Peter Latten, Agile Coach
+(Peter Latten, Agile Coach)
