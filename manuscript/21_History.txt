@@ -1,8 +1,14 @@
 # History {#History}
 
 This game was invented in 2015. As with many good things, it started with a question.
+
+
 ![Yves first tweet](images/1st_tweet_screenshot.png)
+
+
 Three days later we had our first draft for #ALE15 and played with mean ideas on how to torture the attendees with common scaling issues.
+
+
 ![;-)](images/evil_ideas.png)
 
 
