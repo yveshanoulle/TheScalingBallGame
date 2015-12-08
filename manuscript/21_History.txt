@@ -1,6 +1,8 @@
 # History {#History}
 
-This game was invented in 2015. 
+This game was invented in 2015. As with many things, it started by chance (and a tweet) [](images/1st_tweet_screenshot.png).
+Three days later we had our first draft and played with mean ideas on how to torture the attendees with common scaling issues [](images/evil_ideas.png).
+
 
 **Versions**
  
