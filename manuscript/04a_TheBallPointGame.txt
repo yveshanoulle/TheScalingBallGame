@@ -1,7 +1,7 @@
 ## The Ball point game  {#TheBallPointGame}
 
-The agile game we are basing our self on is the ball point game. 
-In this paragraph we will explain the original Ball Point game.
+The game that the scaling ballgame is based upon is the ball point game. 
+
 
 The original version of the ballpoint game was first shown to the agile community in 2008 by [Boris Gloger](http://kanemar.com/2008/04/07/scrum-trainers-gathering-24-the-ball-point-game/) . As one of the early Scrum Trainers, he needed a simulation to show process improvement, flow, self organisation and objectives in scrum teams.
 
