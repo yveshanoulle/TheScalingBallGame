@@ -1,7 +1,38 @@
 ## The One Ball point game  {#TheOneBallPointGame}
 
-This version is a little bit different then the original Ball point game. It’s a game you can play with only one ball. As an agile coach, I make sure I always have one ball in my backpack. This allows me to play this version of the game at any moment. 
+As a coach, I try to always keep a ball in my backpack. 
+This allows me at any time to facilitate an adapted version of the ball point game.
+
+Now with one ball, the rules are a little bit different. 
 
 
++ Your team has the mission to "produce" balls. With the goal to produce as many balls as possible. 
 
-<TODO> Add ONE BallPoint Game + difference with ball point game
+>> This rule is turned into you are delivering one ball as soon as possible.
+ 
+
++ You do that by passing them from one team member to another. 
+>> Rule stays the same
+
+
++ Balls must go through everyones hands in the team with air time (so there is a chance for the ball to be accidentally dropped). 
+>> Same rule, although I’m usually less strict on the “not possible to let it fall rule”.
+
++ No ball can be passed to your immediate neighbour. 
+>> Rule stays the same. Very strict on that one.
+
+
++ The person that introduces the balls to the system also has to be the last one to touch the ball. 
+>> Rule stays the same.
+
++ Any ball that goes through the entire team without being dropped counts as one "ball point".
+>>We don’t count ball point, we count cycle time. 
+
+
+>>You "produce" your balls in iterations of one or two minutes. 
+We don’t have iterations in time. Most teams deliver a ball in less then one minute. 
+The fastest team go below 1 second.
+
+>>What matters most is to step back and do a retrospective after every iteration. 
+>>Only with reflection can a team figure out how to move more balls through the system. 
+Next to reflection her it is important to stress the teams that they should practice more instead of talking. Aka try stuff out. 

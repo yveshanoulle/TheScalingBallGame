@@ -7,7 +7,7 @@ The original version of the ballpoint game was first shown to the agile communit
 
 If you have never heard about the game you might like to know its rules:
 
-+ Your team has the mission to "produce" balls. 
++ Your team has the mission to "produce" balls. With the goal to produce as many balls as possible.
 
 + You do that by passing them from one team member to another. 
 
