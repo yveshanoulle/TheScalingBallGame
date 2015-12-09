@@ -1,2 +1,2 @@
 # Ball games {#BallGames}
-In this chapter we will talk about the different versions of the Ball point game and our scaling ball game.
+In this chapter we will talk about the different versions of the Ball point game. 

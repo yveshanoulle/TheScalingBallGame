@@ -7,13 +7,23 @@ The original version of the ballpoint game was first shown to the agile communit
 
 If you have never heard about the game you might like to know its rules:
 
-Your team has the mission to "produce" balls. You do that by passing them from one team member to another. Balls must go through everyones hands in the team with air time (so there is a chance for the ball to be accidently dropped). No ball can be passed to your immediate neighbour. The person that introduces the balls to the system also has to be the last one to touch the ball. Any ball that goes through the entire team without being dropped counts as one "ball point".
++ Your team has the mission to "produce" balls. 
+
++ You do that by passing them from one team member to another. 
+
++ Balls must go through everyones hands in the team with air time (so there is a chance for the ball to be accidently dropped). 
+
++ No ball can be passed to your immediate neighbour. 
+
++ The person that introduces the balls to the system also has to be the last one to touch the ball. 
+
++ Any ball that goes through the entire team without being dropped counts as one "ball point".
 
 You "produce" your balls in iterations of one or two minutes. What matters most is to step back and do a retrospective after every iteration. Only with reflection can a team figure out how to move more balls through the system. 
 
-Usually a Trainer tells the Team after three or four iterations, that some other team has produced x times more balls, which typically sparks new ideas on how to improve even more.
+Usually a trainer tells the team after three or four iterations, that some other team has produced x times more balls, which typically sparks new ideas on how to improve even more.
 
-We usually write the Rules beforehand on a Flipchart, so there are less discussions about the rules (clarity helps). 
+We usually write the Rules beforehand on a flipchart, so there are less discussions about the rules (clarity helps). 
 
 Find the original brochure by Boris Gloger [here](https://kanemar.files.wordpress.com/2008/03/theballpointgame.pdf)
 
