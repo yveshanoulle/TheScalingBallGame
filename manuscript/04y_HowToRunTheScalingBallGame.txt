@@ -1,11 +1,20 @@
 # How to run the Scaling ball game  {#HowToRunTheGame}
 
-The agile game we are basing our self on is the ball game. we will have multiple teams that have to send balls to other teams.
+The agile game we are basing our self on is the ball point game. we will have multiple teams that have to send balls to other teams.
 
 
 ##Round 1: 
 
-one of the outcomes of the first round is a team velocity. we expect them to keep it, in later games. When they deliver less balls they are punished. (by adding a supervisor)  
+one of the outcomes of the first round is a team velocity. we expect them to keep it, in later games. When they deliver less balls they are punished. (e.g. by adding a supervisor).
+
+
+It is important to brief the teams on the original ball point game, as there are still many people that have not heard about it. an easy option is to write the rules on one of your flip-charts and have them visible for future reference.
+
+It is important to have the teams write down their scores (how many balls they produced) on one of the flipcharts you prepared. Have them also add the number of "defects" (balls that were dropped). This is an important part for later reflections.
+
+
+![four teams playing](images/ballpoints.jpg)
+
 
 ##Round 2: 
 
@@ -13,6 +22,7 @@ multiple rounds solving different scaling issues with a partner team (total 20 m
 
 ###Iteration 1: (5 minutes)
 
+As soon as attendees are comfortable with the rules, we start into the first
 we have a red team and a blue team
 the red team passes red balls like normal and then at the end the red ball has to be passed to the start the the blue team, where it has to pass all the way.
 At the same time the blue team passes a blue ball around and at the end passes the blue ball to the red team. Point are only given for a ball that passes in every teams hand.
@@ -26,7 +36,7 @@ small retrospective (5 minutes)
 
 ###iteration 3 (5 minutes): 
 
-replay iteration 2 with a new strategy 
+replay iteration 2 with a new strategy gathered from the small retrospective
 
 ##Round 3: 
 
@@ -50,4 +60,3 @@ one team member has to be blindfolded
 people have to pick one hand to catch and put one hand on their forehead 
 you can only throw or catch with one hand , you have to switch hands for the other action. 
 and many more….
-
