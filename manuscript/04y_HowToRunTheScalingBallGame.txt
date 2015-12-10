@@ -10,7 +10,7 @@ one of the outcomes of the first round is a team velocity. we expect them to kee
 
 It is important to brief the teams on the original ball point game, as there are still many people that have not heard about it. an easy option is to write the rules on one of your flip-charts and have them visible for future reference.
 
-It is important to have the teams write down their scores (how many balls they produced) on one of the flipcharts you prepared. Have them also add the number of "defects" (balls that were dropped). This is an important part for later reflections.
+It is important to have the teams write down their scores (how many balls they produced) on one of the flipcharts you prepared. Have them also add the number of "defects" (balls that were dropped). This is an important base for later reflections.
 
 
 ![four teams playing](images/ballpoints.jpg)
@@ -22,17 +22,22 @@ multiple rounds solving different scaling issues with a partner team (total 20 m
 
 ###Iteration 1: (5 minutes)
 
-As soon as attendees are comfortable with the rules, we start into the first
-we have a red team and a blue team
-the red team passes red balls like normal and then at the end the red ball has to be passed to the start the the blue team, where it has to pass all the way.
-At the same time the blue team passes a blue ball around and at the end passes the blue ball to the red team. Point are only given for a ball that passes in every teams hand.
+As soon as attendees are comfortable with the rules, we start into the first round of a "simple" scaled environment. To make it easier for the teams we start in pairs of teams. So if you have four teams attending the workshop, you have two tuples. Adding some kind of story (why we are skaling, what kind of teams the attendees think they are,..) can set the stage for further 
+
+Let's focus on a set of two teams: red and blue.
+the red team passes red balls like normal and then at the end the red balls have to be passed to the start of the the blue team, where they have to pass all the way through the blue team until they can be counted as points.
+
+At the same time the blue team passes blue balls around and at the end passes the blue balls to the red team. Point are only given for a ball that passes in every teams hand.
 
 ###Iteration 2 (5 minutes) 
 
-you are “done” as soon as you’ve thrown the ball somewhere in the direction of the other team -> not responsible for them to actually catch it - here we could have one person per team, that “finishes” the round, as soon as he has thrown the ball to the other group -> strong desynchronisation)
+In this round we can further advance our scaling story by adding, that we had a consultant inhouse that told us to just decouple/desynchronize the teams (and didn't mention to decouple dependencies in the code).
 
-the special catch of this iteration is the limited amount of balls teams have, so they have to catch the balls or run after them.
-small retrospective (5 minutes)
+So the red team is “done” as soon as they’ve thrown the red ball somewhere in the direction of the other team -> not responsible for them to actually catch it - here we could have one person per team, that “finishes” the round, as soon as he has thrown the ball to the other group -> strong desynchronisation)
+
+A special catch of this iteration is to limit the amount of balls teams that teams get, so they have to catch the balls or run after them.
+
+Also add small retrospective (5 minutes)
 
 ###iteration 3 (5 minutes): 
 
