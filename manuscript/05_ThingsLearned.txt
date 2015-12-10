@@ -14,4 +14,22 @@ In this chapter we will list the sentences that attendees said during retrospect
 
 
 
- 
+# Debriefing  {#Debriefing}
+
+## How did it feel?
+
+Ask with open questions to allow people to share their experiences. You should guide the teams through couple of questions on things you, or the observers experienced. See the next chapters on observations and feedback.
+
+## Questions you could use to gain more insights:
+
++ Which round/iteration felt the best? - Why was that so?
++ If the teams we're not as fast in the scaled iterations, ask when what made them faster in the "single" round. A possible next question is how that translates to our work environment. (dependencies, microservices, ...)
++ When focusing on the debriefing of the scaled iterations you may ask if there were any bottlenecks in the system and what the teams did to address them.
++ Many teams will have figured out, that a push system (to throw balls at your team members) results in more dropped balls (defects). Ask the teams (that embraced pull) how that could translate to scrum or kanban.
++ If you went for the issue of outsourcing/offshoring (moving a huge whiteboard between teams, so they couldn't see eachother) you could ask your teams how their work environment is, and if they learned something TODO Yves, can you add some stuff here? ;-)
++ Questions on swapping team members - norming,storming,...
++ people that swapped team: did your ideas ignite a spark in the new team?
+
+POSSIBLE Question not asked yet:
++ Would a team member that was much better at this game than the rest, have made any more progress?
++ Leadership, who had the ideas? 
