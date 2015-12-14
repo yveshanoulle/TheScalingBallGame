@@ -33,3 +33,5 @@ Ask with open questions to allow people to share their experiences. You should g
 POSSIBLE Question not asked yet:
 + Would a team member that was much better at this game than the rest, have made any more progress?
 + Leadership, who had the ideas? 
++ Why do you think dropped balls couldn't be picked up again?
++ Which iteration felt the best?

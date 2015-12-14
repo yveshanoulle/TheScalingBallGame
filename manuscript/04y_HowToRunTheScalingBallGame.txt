@@ -55,13 +55,15 @@ Round 4:
 
 optional difficulties:
 
-left handed people are only allowed to send to other left handed people 
-when a ball falls on the ground, no one can use it any longer
-when one red ball falls on the ground, all red balls have to leave the system
-you get the number of balls of your estimation
-you get punished for delivering less
-you can’t deliver more (because you lack balls)
-one team member has to be blindfolded 
-people have to pick one hand to catch and put one hand on their forehead 
-you can only throw or catch with one hand , you have to switch hands for the other action. 
++ left handed people are only allowed to send to other left handed people 
++ when a ball falls on the ground, no one can use it any longer
++ when one red ball falls on the ground, all red balls have to leave the system
++ you get the number of balls of your estimation
++ you get punished for delivering less
++ you can’t deliver more (because you lack balls)
++ one team member has to be blindfolded 
++ people have to pick one hand to catch and put one hand on their forehead 
++you can only throw or catch with one hand, you have to switch hands for the other action. 
++ disturb the team, tell them you are their new manager and you need information from one of the team members (not changing the rules about everyone touching the balls to gain points)
+
 and many more….
