@@ -1,23 +1,21 @@
 # Supplies {#Supplies}
 
-* Per 20 people:
-  * hourglass of 3 minutes,
-  * hourglass of 5 minutes,
-  * hourglass of 10 minutes,
-  * hourglass of 15 minutes,
-  * one large table,
-  * flip-over (needed for organization) or a magic whiteboard
-* Camera for photos
-* Books on leadership
-* 3 index cards: one red, one green, one yellow
-* 20 ballpens.
-* clock or timer device
-* (sticker) name badges for everyone
 * 500 stress balls in 7 different colours. More or less 70 per color.
+* per 5 People:
+  * hourglass of 1 minute,
+  * hourglass of 5 minutes,
+  * hourglass of 90 minutes (whole workshop,
+  * one large table,
+  * clock or timer device instead of the hourglas
+  * 2 flip-charts (needed for organization), 
+* a huge magic whiteboard (to simulate outsourcing)
+* a camera for photos
+* 3 index cards: one red, one green, one yellow
+* name badges for everyone (if you don't know attendees names)
+* (optional) a "Gong" or something to make a sound helps
+* (optional) Books on leadership
 
 
-
-* (optional) gong
 
 ![](images/suppliers.png)
 
