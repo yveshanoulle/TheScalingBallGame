@@ -23,17 +23,23 @@ Ask with open questions to allow people to share their experiences. You should g
 ## Questions you could use to gain more insights:
 
 + Which round/iteration felt the best? - Why was that so?
-+ If the teams we're not as fast in the scaled iterations, ask when what made them faster in the "single" round. A possible next question is how that translates to our work environment. (dependencies, microservices, ...)
++ If the teams we're not as fast in the scaled iterations, ask what made them faster in the "single" round and vice versa. A possible next question is how that translates to their work environment. (dependencies, microservices, ...)
 + When focusing on the debriefing of the scaled iterations you may ask if there were any bottlenecks in the system and what the teams did to address them.
-+ Many teams will have figured out, that a push system (to throw balls at your team members) results in more dropped balls (defects). Ask the teams (that embraced pull) how that could translate to scrum or kanban.
-+ If you went for the issue of outsourcing/offshoring (moving a huge whiteboard between teams, so they couldn't see eachother) you could ask your teams how their work environment is, and if they learned something TODO Yves, can you add some stuff here? ;-)
-+ Questions on swapping team members - norming,storming,...
-+ people that swapped team: did your ideas ignite a spark in the new team?
++ Many teams will have figured out, that a push system (to throw balls at your team members) results in more dropped balls (defects). Ask the teams - that embraced a pull system - how that could translate to scrum or kanban.
++ If you introduced the scaling issue of outsourcing/offshoring (moving a huge whiteboard between teams, so they couldn't see eachother) you could ask your teams how their work environment reflects that wall.
 
-POSSIBLE Question not asked yet:
+## Questions on swapping team members:
+
++ Which parts of team development did you experience in the first rounds
++ How was that different to being put into another team? 
++ Adressing people that swapped team: did your ideas ignite a spark in the new team? Why was that so?
++ 
+
+# Other questions:
 
 + Would a team member that was much better at this game than the rest, have made any more progress?
-+ Leadership, who had the ideas? 
++ Did you experience Leadership?
++ Who shaped opinions and changes in your team? 
 + Why do you think dropped balls couldn't be picked up again?
 + Which iteration felt the best?
 
