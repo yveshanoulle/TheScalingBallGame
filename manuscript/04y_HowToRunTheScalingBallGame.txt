@@ -4,16 +4,18 @@ The agile game we based "The Scaling Ballgame" on is called "The Ball Point Game
 
 Before you can start, teams can either emerge, or you make them up based on talks previous to the workshop. Groups of five to eight people work very well. Once the teams have found themselves, they have to find some kind of identity - a name usually helps (also for the highscore chart).
 
-As soon as the teams emerged, you have to advise them, that they not only can change their "process" but in some degrees also their environment. This is due to the fact, that some infrastructure you find in seminar rooms can be a risk to health or team performance ;-)
+As soon as the teams emerged, you have to advise them, that they not only can change their "process" but in some degrees also their environment. This is due to the fact, that some infrastructure you find in seminar rooms can be a risk to health or team performance (like in real life) ;-)
 
 ##Round 1: 
+TODO: Wrong order 
 
-One of the outcomes of the first round is a team velocity. we expect them to keep it, in later games. When they deliver less balls they are punished. (e.g. by adding a supervisor).
+One of the outcomes of the first round is a team's velocity. We "officially" expect them to keep it, in later rounds. The attendees are responsible to  count and write their scores on the highscore list (how many balls they produced) on one of the flipcharts you prepared. Have them also add the number of "defects" (balls that were dropped). This is an important base for later reflections.
+
+When teams deliver less balls they might be punished. (e.g. by adding a supervisor).
 
 
-It is important to brief the teams on the original ball point game, as there are still many people that have not heard about it. an easy option is to write the rules on one of your flip-charts and have them visible for future reference.
+It is important to brief the teams on the original ball point game, as there are still many people that have not heard about it. An easy option is to write the rules on one of your flip-charts and have them visible for future reference.
 
-It is important to have the teams write down their scores (how many balls they produced) on one of the flipcharts you prepared. Have them also add the number of "defects" (balls that were dropped). This is an important base for later reflections.
 
 
 ![four teams playing](images/ballpoints.jpg)
