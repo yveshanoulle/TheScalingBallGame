@@ -1,11 +1,14 @@
-# How to run the Scaling ball game  {#HowToRunTheGame}
+# How to run the Scaling Ballgame  {#HowToRunTheGame}
 
-The agile game we are basing our self on is the ball point game. we will have multiple teams that have to send balls to other teams.
+The agile game we based "The Scaling Ballgame" on is called "The Ball Point Game". We cahnged the game in so far, that you can simulate issues that appear in scaled environments by the simple task of throwing balls between attendees/teams.
 
+Before you can start, teams can either emerge, or you make them up based on talks previous to the workshoip. Groups of five to eight people work the best. Once the teams have found themselves, they have to find some kind of identity - a name usually helps (also for the highscore chart).
+
+As soon as the teams emerged, you have to advise them, that they not only can change their "process" but in some degrees also their environment. This is due to the fact, that some infrastructure you find in seminar rooms can be a risk to health or team performance ;-)
 
 ##Round 1: 
 
-one of the outcomes of the first round is a team velocity. we expect them to keep it, in later games. When they deliver less balls they are punished. (e.g. by adding a supervisor).
+One of the outcomes of the first round is a team velocity. we expect them to keep it, in later games. When they deliver less balls they are punished. (e.g. by adding a supervisor).
 
 
 It is important to brief the teams on the original ball point game, as there are still many people that have not heard about it. an easy option is to write the rules on one of your flip-charts and have them visible for future reference.
