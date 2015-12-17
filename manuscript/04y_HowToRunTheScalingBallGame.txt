@@ -2,7 +2,7 @@
 
 The agile game we based "The Scaling Ballgame" on is called "The Ball Point Game". We cahnged the game in so far, that you can simulate issues that appear in scaled environments by the simple task of throwing balls between attendees/teams.
 
-Before you can start, teams can either emerge, or you make them up based on talks previous to the workshop. Groups of five to eight people work the best. Once the teams have found themselves, they have to find some kind of identity - a name usually helps (also for the highscore chart).
+Before you can start, teams can either emerge, or you make them up based on talks previous to the workshop. Groups of five to eight people work very well. Once the teams have found themselves, they have to find some kind of identity - a name usually helps (also for the highscore chart).
 
 As soon as the teams emerged, you have to advise them, that they not only can change their "process" but in some degrees also their environment. This is due to the fact, that some infrastructure you find in seminar rooms can be a risk to health or team performance ;-)
 
