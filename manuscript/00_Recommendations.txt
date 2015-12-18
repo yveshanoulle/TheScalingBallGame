@@ -15,13 +15,15 @@ A> The ball-point game is used by many Scrum trainers in their training; the sca
 A>
 A> *(Frederik Vannieuwenhuyse, Agile consultant)*
 
+A> It really is a great example of the scaling issues 
+A>
+A> *(anonymous feedback at XPDays)*
+
 A> Being through a couple of large scale initiatives I was curious to see what the game had to offer.  It turns out the game visualises a lot.  The situations are very recognisable and the outcome is comparable to real life scalability issues. Even with a group of mostly agile coaches we were not able to put down a good performance.  
 A> The Scaling Ballgame is a good game to experience when you are about to start an – even limited - scaled initiative. Whatever happens during the game will also happen during your scaling so you will be able to understand and react faster.  
 A>
 A> *(Jan De Baere)*
 
-A> It really is a great example of the scaling issues 
-A>
-A> *(anonymous feedback at XPDays)*
+
 
 
