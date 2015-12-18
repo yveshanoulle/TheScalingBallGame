@@ -1,9 +1,5 @@
 # Recommendations {#Recommendations}
 
-A> It really is a great example of the scaling issues 
-A>
-A> *(anonymous feedback at XPDays)*
-
 A> Do you want to know upfront what is going to happen with your Distributed Scrum Teams? The Ball Point Game is one of the better games to play. During my last experience with Yves I was surprised that even I stepped into the old mistake; out of sight out of mind. What a simple physical whiteboard can do when you put it between two Ball point teams is amazing.
 A>
 A> *(Peter Latten, Agile Coach)*
@@ -22,4 +18,10 @@ A> *(Frederik Vannieuwenhuyse, Agile consultant)*
 A> Being through a couple of large scale initiatives I was curious to see what the game had to offer.  It turns out the game visualises a lot.  The situations are very recognisable and the outcome is comparable to real life scalability issues. Even with a group of mostly agile coaches we were not able to put down a good performance.  
 A> The Scaling Ballgame is a good game to experience when you are about to start an – even limited - scaled initiative. Whatever happens during the game will also happen during your scaling so you will be able to understand and react faster.  
 A>
-A> *(Frederik Vannieuwenhuyse)*
+A> *(Jan De Baere)*
+
+A> It really is a great example of the scaling issues 
+A>
+A> *(anonymous feedback at XPDays)*
+
+
