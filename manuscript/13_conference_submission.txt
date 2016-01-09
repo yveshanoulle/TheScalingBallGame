@@ -1,4 +1,6 @@
 # Conference Submission {#ConferenceSubmission}
+If you plan on submitting "The Scling Ballgame" to a Conference, here is some Information to make that submission a bit easier
+
 ## Abstract
 
 Although it's not easy, as an agile community we "know" how to do agile in teams. 
