@@ -68,13 +68,13 @@ This workshop is for everyone who wants to experience the challenge of scaling d
 
 ## Links
 
-a draft set of instructions to play the game: www.scalingballgame.org
+[a draft set of instructions to play the game](www.scalingballgame.org)
 
-photos take at the agile games lab belgium: https://www.flickr.com/photos/yveshanoulle/sets/72157661544318386
+[photos take at the agile games lab belgium](https://www.flickr.com/photos/yveshanoulle/sets/72157661544318386)
 
-presented at xp-days: http://www.xpday.net/Xpday2015/XPDays/Program/Friday.html#session_301
+[presented at xp-days](http://www.xpday.net/Xpday2015/XPDays/Program/Friday.html#session_301)
 
-photos taken at xp-days: https://www.flickr.com/photos/yveshanoulle/23579797875/in/album-72157661413130679
+[photos taken at xp-days](https://www.flickr.com/photos/yveshanoulle/23579797875/in/album-72157661413130679)
 
 
 ## Requirements
