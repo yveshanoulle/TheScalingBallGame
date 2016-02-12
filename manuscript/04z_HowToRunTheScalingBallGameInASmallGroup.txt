@@ -14,9 +14,10 @@ You let them play for one or two iterations. You write down their best score.
 
 Then you ask them to also start taking on another color balls. This time it’s another player who starts with this new color ball and who also is the last to receive this ball before it goes into the “acceptance bucket”.
 
-When they start with this, they will need to reorganise themselves and find other ways to deliver balls.
+When they start with this, the attendees will need to reorganise themselves and find other ways to deliver balls.
 
-After a one or two iterations, you tell them that the balls only count in pair. Aka seven red balls and 5 blue balls, only give you 5 points. 
+After one or two iterations, you add another rule: 
+*balls only count in pairs*. Rendering seven red and five blue balls, into five ballpoints. 
 
 This means they have to make sure that both balls are in sync.  
 
