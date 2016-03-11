@@ -31,3 +31,14 @@ Another exercise that also works well with small teams is to put a big object in
 The idea behind it, is that half of the team is offshore. 
 You can organise it, so that with 2 balls, one of the owners is on one side and the other side. Which means that the receiving bucket will be on only one side. So one of the owners will need to be creative on how to deliver the ball. 
 
+## The Scaling Ball Game in mid-sized groups {#TheScalingBallPointGameMedium}
+
+If you don't have enough attendees for the explained setup of at least four teams, but have at least 15 people in the room, you can introduce the topic of Devs vs Ops.
+
+When you introduce the latest management decision, that the operations team can only put your "product" into production after they have assessed it, we have the option to experience a "bottleneck"-team.
+
+You can have two teams create balls, but only if they have been checked by the operations team are they counted as points.
+
+In further rounds you can introduce dependencies between the balls of the two development teams (e.g. red and blue balls). You can have them be delivered to "production" in pairs (only a red and a blue ball create points, when they have been released together).
+
+In even later rounds you can have one of the teams be outsourced (introduce a big whiteboard between teams). Usually the outsourced team get the blame from the other two teams (that still see eachother). Decide for yourself if you want to outsource the operations-team or one of the development-teams.
