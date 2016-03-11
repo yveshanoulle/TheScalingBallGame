@@ -7,9 +7,9 @@ Skip ahead 5 years I finished my masters in medical computer sciences,
 when I became more interested in creating effective teams than software. 
 Nowadays I've broadened my skills to also coach departments in an enterprise environment. 
 
-I'm a part of agile rescue, a losely coupled network of agile experts spread throughout europe.
+I'm a part of agile rescue, a losely coupled network of agile experts spread throughout Europe.
 
-I love sharing my experiences - especially, but not limited to  agile topics that are dear to my heart. You probably won't have to keep that in mind, when ever you should meet me at a conference ;-)
+I love sharing my experiences - especially, but not limited to  agile topics that are dear to my heart. You probably won't have to keep that in mind, when ever you should meet me at a conference. ;-)
 
 Markus' Contact Data:
 
@@ -41,13 +41,13 @@ Yearly I spend at least 10 % of my revenue on training and books (You can find d
 
 
 After my father invented the term PairCoaching, I started to use it to  promote pairwork.
-When I don’t work as an agile coach helping companies in EMEA, talking at conferences around the world about agile or the core protocols, I’m using
+When I don't work as an agile coach helping companies in EMEA, talking at conferences around the world about agile or the core protocols, I'm using
 agile idea’s to raise my 3 kids. (And I use what I learn from them when I work with teams.)
 
 Since December 2012, I work from a [walking desk](http://www.hanoulle.be/2013/02/im-working-from-a-walking-desk/). 
 Check out the link to see how many steps I took since then. 
 
-I’m a big fan of parent pair work with their children. I have already given a presentation with my whole family in 2011 and since December 2014, I’m giving pair presentations with my oldest son Joppe. 
+I'm a big fan of parent pair work with their children. I have already given a presentation with my whole family in 2011 and since December 2014, I'm giving pair presentations with my oldest son Joppe. 
 
 I have also released [anguis](https://www.anguis.be), a (Dutch) android game that I have parent pair programmed with Joppe.
 

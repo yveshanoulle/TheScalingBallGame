@@ -35,6 +35,6 @@ The fastest teams go below 1 second.
 
 + What matters most is to step back and do a retrospective after every iteration. 
 Only with reflection can a team figure out how to move more balls through the system. 
->>Next to reflection it is important to stress the teams that they should practice more instead of talking. Aka try stuff out. With try outs of a seconds a team can learn much more by trying then by discussing.
+Next to reflection it is important to stress the teams that they should practice more instead of talking. Aka try stuff out. With try outs of a seconds a team can learn much more by trying then by discussing.
 
 

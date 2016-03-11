@@ -4,7 +4,7 @@
 * per 5 People:
   * hourglass of 1 minute,
   * hourglass of 5 minutes,
-  * hourglass of 90 minutes (whole workshop,
+  * hourglass of 90 minutes (whole workshop)
   * one large table,
   * clock or timer device instead of the hourglas
   * 2 flip-charts (needed for organization), 
@@ -13,7 +13,7 @@
 * 3 index cards: one red, one green, one yellow
 * name badges for everyone (if you don't know attendees names)
 * (optional) a "Gong" or something to make a sound helps
-* (optional) Books on leadership
+* (optional) books on leadership
 
 
 
