@@ -29,7 +29,7 @@ Markus' Contact Data:
 
 Markus Wissekal Consulting
 Feldblumenstrasse 7
-8048 Zürich
+8048 ZÃ¼rich
 
 
 
@@ -42,7 +42,7 @@ Yearly I spend at least 10 % of my revenue on training and books (You can find d
 
 After my father invented the term PairCoaching, I started to use it to  promote pairwork.
 When I don't work as an agile coach helping companies in EMEA, talking at conferences around the world about agile or the core protocols, I'm using
-agile ideaÕs to raise my 3 kids. (And I use what I learn from them when I work with teams.)
+agile ideaÃ•s to raise my 3 kids. (And I use what I learn from them when I work with teams.)
 
 Since December 2012, I work from a [walking desk](http://www.hanoulle.be/2013/02/im-working-from-a-walking-desk/). 
 Check out the link to see how many steps I took since then. 
@@ -83,4 +83,4 @@ Yves' Contact Data:
 **Snail mail:**
 
 Objectsoft bvba
-Congregatiestraat 16 9031 Drongen
+Antoon Catriestraat 25A  9031 Drongen
