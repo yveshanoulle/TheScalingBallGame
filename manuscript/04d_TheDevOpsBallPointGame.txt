@@ -2,7 +2,7 @@
 
 Here will come the Devops version of the Ballpoint game.
 
-This describes the playbook for running the [DevOps Ball Point](https://johnclapham.wordpress.com/2013/11/06/the-devops-ball-point/) game as shared by John Clapham, [@johnC_bristol](https://twitter.com/johnC_bristol) on Twitter.
+This describes the playbook for running the [DevOps Ball Point](https://johnclapham.wordpress.com/2013/11/06/the-devops-ball-point/) game as [shared](https://twitter.com/johnC_bristol/status/398222616978157568) by [John Clapham](https://twitter.com/johnC_bristol) on Twitter.
 
 ### The Objective
 Pass as many balls as possible through the team into the paper cups.
