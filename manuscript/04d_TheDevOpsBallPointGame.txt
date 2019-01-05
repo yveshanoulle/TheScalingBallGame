@@ -6,6 +6,14 @@ John wanted players and observers to feel the effects of interrupted an uninterr
 
 As for the orginal ballpoint game, the objective is to pass as many balls as possible through the team. But as opposed to the original ballpoint, the person introducing the ball in the system is not the last person to touch the ball. You earn a ball point each time a ball is dropped in a paper cup.
 
+John added some modifications to the original game:
+
+- Team Growth: The game starts with 3 players, you might think of them as the founders. At each iteration more players are added as the business is growing. Here the game shows how flow gets interrupted as more people join an organisation.
+- Silos: The game shows how flow gets interrupted with unchecked/unmanaged growth when organisational, cultural or geographical separation is introduced. DevOps calls this the [wall of confusion](http://dev2ops.org/2010/02/what-is-devops/). During the game this is realised with a physical wall forcing only one touch point between teams, and limited visibility.
+- Incentives: As is usual for classic organisations to give different incentives to different departments, we give during the game competing incentives to teams on either side of the wall of confusion.
+- Contstrained Throughput: The game adds a constrained to the throughput of the system. The players need to consider downstream flow like is the most of the time the case in classic organisations between development teams and test and/or operations teams. This is analoguous with planning and executing manual regression tests or planning and configuring new IT systems. For the game we use paper cups to receive the balls. Each cup has capacity - 2 balls or more - and a cost - 10 seconds notice to spin up. If a cup is not ready, the team has 2 options: either wait for a cup to get ready and the team gets a ballpoint, or drop the ball.
+- Start person is not the end person: Because the last person places balls in the cups, and potentially requests more balls, it is not practical to have that same person as start and end point.
+
 ### Materials
 
 * You need something to create a wall: this can be 2 flipcharts, a whiteboard, a projection screen. I once had in a meeting room office space dividers which are great for this.
@@ -18,8 +26,8 @@ As for the orginal ballpoint game, the objective is to pass as many balls as pos
 * Each ball must have air-time
 * Each ball must be touched at least once by every team member
 * No passing of the ball to your direct neighbour.
-* Start person is NOT the end person (as opposed to the classic Ball Point game).
-* End point is a paper cup, which has capacity and cost (10 seconds to spin up). If the a cup is not ready, the team can either wait for a cup to get ready and thus gets a point, or it drops the ball.
+* Start person is *NOT* the end person (as opposed to the original ballpoint game).
+* End point is a paper cup, which has a capacity (2 balls or more) and a cost (10 seconds to spin up). If the a cup is not ready, the team can either wait for a cup to get ready and gets a ballpoint, or drop the ball.
 * Two minutes per iteration.
 * One minute for continuous improvement.
 
