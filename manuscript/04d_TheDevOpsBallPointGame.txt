@@ -8,9 +8,9 @@ This describes the playbook for running the [DevOps Ball Point](https://johnclap
 Pass as many balls as possible through the team into the paper cups.
 
 ### Materials
-* something to create a wall: 2 flipcharts or a projection screen
-* balls (how many ?)
-* paper cups (how many ?)
+* something to create a wall: 2 flipcharts, a whiteboard, a projection screen or office space dividers 
+* 120 balls seems to be the right amount
+* 60 paper cups that each can contain 2 balls
 * a flipchart or whiteboard to record the number of balls passed through the team.
 
 ### The Rules
