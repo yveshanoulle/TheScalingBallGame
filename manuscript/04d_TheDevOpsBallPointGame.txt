@@ -1,19 +1,17 @@
 ## The DevOps Ball point game  {#TheDevOpsBallPointGame}
 
-Here will come the Devops version of the Ballpoint game.
+This is the [DevOps version of the original ballpoint game](https://twitter.com/johnC_bristol/status/398222616978157568). It was designed by [John Clapham](https://twitter.com/johnC_bristol) to use for the Experience DevOps workshop that he ran together with [Matthew Skelton](https://twitter.com/matthewpskelton) and [James Betteley](https://twitter.com/jamesbetteley).
 
-This describes the playbook for running the [DevOps Ball Point](https://johnclapham.wordpress.com/2013/11/06/the-devops-ball-point/) game as [shared](https://twitter.com/johnC_bristol/status/398222616978157568) by [John Clapham](https://twitter.com/johnC_bristol) on Twitter.
+John wanted players and observers to feel the effects of interrupted an uninterrupted flow, and he wanted constraints on throughput.
 
-### The Objective
-
-Pass as many balls as possible through the team into the paper cups.
+As for the orginal ballpoint game, the objective is to pass as many balls as possible through the team. But as opposed to the original ballpoint, the person introducing the ball in the system is not the last person to touch the ball. You earn a ball point each time a ball is dropped in a paper cup.
 
 ### Materials
 
-* something to create a wall: 2 flipcharts, a whiteboard, a projection screen or office space dividers
-* 120 balls seems to be the right amount
-* 60 paper cups that each can contain 2 balls
-* a flipchart or whiteboard to record the number of balls passed through the team.
+* You need something to create a wall: this can be 2 flipcharts, a whiteboard, a projection screen. I once had in a meeting room office space dividers which are great for this.
+* A decent amount of balls. Far more than for the original ballpoint game. I have a set of 120 balls. This seems enough.
+* Paper cups that can contain at least 2 balls. For paper cups that can contain 2 balls, you need 60 paper cups. If they can contain more balls, you need less cups.
+* a flipchart or whiteboard to record the number of balls passed through the team at each iteration of the game.
 
 ### The Rules
 
