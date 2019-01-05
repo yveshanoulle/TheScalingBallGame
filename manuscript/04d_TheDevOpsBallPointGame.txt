@@ -101,8 +101,10 @@ Remove the wall. Remind the people of the feeling of uninterrupted flow.
 
 Play the game.
 
-### References
+### Reference
 
 * [DevOps Ball Point](https://johnclapham.wordpress.com/2013/11/06/the-devops-ball-point/)
-* [Original Ball Point Game by Boris Gloger](https://borisgloger.com/wp-content/uploads/2011/08/Ball_Point_Game.pdf?b34d23)
-* [Example of the Ball Point Game on Youtube](https://www.youtube.com/watch?v=rva3wRvpS_4)
+
+### Acknowledgment
+
+[John Clapham](https://twitter.com/johnC_bristol) for publishing this variant and taking the time to answer all of my questions.
