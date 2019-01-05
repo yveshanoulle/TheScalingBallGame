@@ -5,15 +5,18 @@ Here will come the Devops version of the Ballpoint game.
 This describes the playbook for running the [DevOps Ball Point](https://johnclapham.wordpress.com/2013/11/06/the-devops-ball-point/) game as [shared](https://twitter.com/johnC_bristol/status/398222616978157568) by [John Clapham](https://twitter.com/johnC_bristol) on Twitter.
 
 ### The Objective
+
 Pass as many balls as possible through the team into the paper cups.
 
 ### Materials
-* something to create a wall: 2 flipcharts, a whiteboard, a projection screen or office space dividers 
+
+* something to create a wall: 2 flipcharts, a whiteboard, a projection screen or office space dividers
 * 120 balls seems to be the right amount
 * 60 paper cups that each can contain 2 balls
 * a flipchart or whiteboard to record the number of balls passed through the team.
 
 ### The Rules
+
 * Each ball must have air-time
 * Each ball must be touched at least once by every team member
 * No passing of the ball to your direct neighbour.
@@ -23,21 +26,27 @@ Pass as many balls as possible through the team into the paper cups.
 * One minute for continuous improvement.
 
 ### The Playbook
+
 This playbook is targeted to a team of 14 people inside an IT organisation.
 
 #### Iteration 1 - Founders
+
 3 people play the game demonstrating how it works for everyone in the room.
 
 #### Iteration 2 - Startup
+
 Grow the team to 6 people and play the game.
 
 _question: should we hold a retrospective after iteration 1 and 2 ?_
 > Typically no, these iterations are just about establishing the story and showing people how to play the game.
 
 #### Iteration 3 - Growing Pains
+
 Form 2 teams of 7 people each keeping the founders in the same team:
+
 * an upstream team, consider it as Development
 * a downstream team, consider it as Operations
+
 Whenever a paper cup is full, Operations needs to bring in a new paper cup.
 
 Add the Wall of Confusion: teams can only pass the ball to each other through one touch point.
@@ -52,6 +61,7 @@ Play the game.
 Hold separate retrospectives. Teams are discouraged to have cross team communications.
 
 #### Iteration 4 - Incentives
+
 Development aims to pass as many balls as possible. Operations aims not to drop a single ball.
 
 Play the game.
@@ -62,6 +72,7 @@ _question: at this point shouldn't the teams have a joined retrospective to prep
 >The aim is is to get the teams realise how damaging the wrong incentives are by encouraging them to optimise for the team's goals rather than the organisation.  As such I'd recommend they retro separately, the act of either a)thinking up even more destructive habits or b)releasing they need to join up, should reinforce learning.
 
 #### Iteration 5 - Joined up incentives
+
 Incentives are now joined for both teams: pass as many balls as possible without dropping a single ball.
 
 Play the game.
@@ -69,11 +80,13 @@ Play the game.
 Hold a joined retrospective.
 
 #### Iteration 6 - Flow
+
 Remove the wall. Remind the people of the feeling of uninterrupted flow.
 
 Play the game.
 
 ### References
+
 * [DevOps Ball Point](https://johnclapham.wordpress.com/2013/11/06/the-devops-ball-point/)
 * [Original Ball Point Game by Boris Gloger](https://borisgloger.com/wp-content/uploads/2011/08/Ball_Point_Game.pdf?b34d23)
 * [Example of the Ball Point Game on Youtube](https://www.youtube.com/watch?v=rva3wRvpS_4)
