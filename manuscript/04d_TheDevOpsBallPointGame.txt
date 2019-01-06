@@ -79,7 +79,7 @@ Whenever a paper cup is full, Operations needs to bring in a new paper cup and s
 
 Add the Wall of Confusion: teams can only pass the ball to each other through one touch point. The touch point can either be between 2 flipchart, or passing over a whiteboard.
 
-![Wall of Confusion](http://dev2ops.org/wp-content/uploads/2010/02/WallOfConfusion_Release.png)
+![Wall of Confusion](images/WallOfConfusion_Release.png)
 
 Play the game.
 
@@ -98,7 +98,7 @@ Play the game.
 Hold separate retrospectives of 1 min in each team. Again teams are discouraged to have cross team communications.
 
 >The aim is to get the teams realise how damaging the wrong incentives are by encouraging them to optimise for the team's goals rather than the organisation's goal. As such I'd recommend they retro separately, the act of either a) thinking up even more destructive habits or b) realising they need to join up, should reinforce learning.
-> -- John Clapham
+> -- [John Clapham](https://twitter.com/johnC_bristol)
 
 Record number of balls in the cups and number of balls dropped.
 
