@@ -14,6 +14,10 @@ John added some modifications to the original game:
 - Contstrained Throughput: The game adds a constrained to the throughput of the system. The players need to consider downstream flow like is the most of the time the case in classic organisations between development teams and test and/or operations teams. This is analoguous with planning and executing manual regression tests or planning and configuring new IT systems. For the game we use paper cups to receive the balls. Each cup has capacity - 2 balls or more - and a cost - 10 seconds notice to spin up. If a cup is not ready, the team has 2 options: either wait for a cup to get ready and the team gets a ballpoint, or drop the ball.
 - Start person is not the end person: Because the last person places balls in the cups, and potentially requests more balls, it is not practical to have that same person as start and end point.
 
+The physical wall is a flow constraint, representing cultural, organisational or geographical differences.
+
+The paper cups are intended to represent expertise from operations with a lead time: server commissioning and configuration, it could also be deployment time or time to get through change control.
+
 ### Number of Participants
 
 I've played the game ranging from 6 to 20 players.
@@ -93,11 +97,14 @@ As the organisation grows, management introduces incentives to improve performan
 
 Development aims to pass as many balls as possible. Operations aims not to drop a single ball.
 
+The incentives are hidden from each team. Thus both teams don't know the incentives from each other. They can only uncover the incentives (and hopefully align) through collaboration. 
+
 Play the game.
 
 Hold separate retrospectives of 1 min in each team. Again teams are discouraged to have cross team communications.
 
 >The aim is to get the teams realise how damaging the wrong incentives are by encouraging them to optimise for the team's goals rather than the organisation's goal. As such I'd recommend they retro separately, the act of either a) thinking up even more destructive habits or b) realising they need to join up, should reinforce learning.
+>
 > -- [John Clapham](https://twitter.com/johnC_bristol)
 
 Record number of balls in the cups and number of balls dropped.
