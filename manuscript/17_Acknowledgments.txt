@@ -8,7 +8,7 @@ We would like to **THANK**:
 + [Boris Gloger](https://borisgloger.com) for the great Ball point game that inspired us.
 + [Molood Noori](https://twitter.com/MoloodNoori) for helping out with the kanban ball game.
 + [Thierry De Pauw](https://twitter.com/tdpauw) for writing up the Devops ball game.
-+ [John Clapham](https://twitter.com/tdpauw) for inventing the Devops ball game.
++ [John Clapham](https://twitter.com/johnC_bristol) for inventing the Devops ball game.
 
 
 **People that have given numerous tips:**
