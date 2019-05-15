@@ -1,4 +1,6 @@
-# Game Feedback {#GameFeedback}
+{#GameFeedback}
+
+# Game Feedback 
 
 Will you send us your feedback to <games@paircoaching.net>?  
 Please use the perfection game format for sending us feedback. (The perfection Game is part of [the Core protocols](http://liveingreatness.com/files/core-protocols-3.03.html), a set of communication patterns created by [Jim & Michele McCarthy](http://www.mccarthyshow.com/online/))

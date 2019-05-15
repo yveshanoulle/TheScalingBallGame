@@ -1,0 +1,93 @@
+# Conference Submission {#ConferenceSubmission}
+If you plan on submitting "The Scling Ballgame" to a Conference, here is some Information to make that submission a bit easier
+
+## Abstract
+
+Although it's not easy, as an agile community we "know" how to do agile in teams. 
+One of the next challenges is scaling agile to the programm- or portfolio level.
+In this game you will experience all kinds of manmade scaling issues.
+Do you have an idea that will make scaling easier? Try your idea in the simulation and get instant feedback.
+
+The scaling game is based on a very popular agile game, that has been around for almost 10 years. 
+This version has been presented at Agile Lille, XP-Days, and the Agile Games Lab Belgium.
+
+During the game you will experience scaling issues that occur when multiple teams work on the same product. Multiple Teams will look for solutions to scaling issues and experiment in an iterative way with their ideas on solving them..
+
+It was co-created by Markus Wissekal & Yves Hanoulle.
+
+## Format
+
+90 mins Workshop
+
+ 
+## Outline/structure of the Session
+
+Process and timetable: (total time 90 min)
+
+* Introduction to scaling issues: 5 minutes
+* Round 1: warm up in local teams and getting a baseline for the teams' velocity 5 minutes
+* Small retrospective inside the teams 5 minutes
+* Round 2: multiple rounds solving different scaling issues with a partner team (total 20 minutes)
+* Small retrospective inside the teams 5 minutes
+* Round 3: multiple rounds solving different scaling issues with groups of 4 small teams collaborating (total 15 minutes)
+* Small retrospective inside the teams 5 minutes
+* Round 4: all teams have to collaborate in one large factory 10 minutes
+* Large joined retrospective (at the end) 20 minutes
+
+## Learning Outcome
+
+Attendees will face a series of typical scaling challenges like:
+
+* team synchronisation
+* efficiency 
+* standardisation
+* optimisation of expertise
+* distributed teams
+
+...and will be able to find strategies on dealing with these challenges because of the simulation.
+
+ 
+Some recommendations by people that played it:
+
+Inge Gorgon, Agile Coach:
+
+The ball point game of Boris Gloger has been a classic in agile trainings for a while. Yves and Markus add new dimensions to it, not only by scaling it up to different teams, but also by introducing middlemen, bugs, obstacles that simulate distributed working, .... The result is a fun and instructive game that gives participants the opportunity to experience the problems scaling causes and time to reflect on how to get flow in such situations. A must for agile teams in large environments.
+
+Jan De Baere, Agile Program Manager:
+
+Being through a couple of large scale initiatives I was curious to see what the game had to offer. It turns out the game visualises a lot. The situations are very recognisable and the outcome is comparable to real life scalability issues. Even with a group of mostly agile coaches we were not able to put down a good performance.
+The Scaling Ballgame is a good game to experience when you are about to start an – even limited - scaled initiative. Whatever happens during the game will also happen during your scaling so you will be able to understand and react faster.
+
+Frederik Vannieuwenhuyse, Agile consultant:
+
+Who has attended a Scrum training, probably has played the ball-point game. By passing play balls as quickly as possible in a group of people (and given a few constraints), one experiences a lot about different aspects of team and work organisation. How the team must self-organize, bottlenecks in the flow, how to deal with constraints, how to optimize the flow, team communication, etc. The ‘scaling’ ballgame takes the same game to a higher level: after playing individually by team, 2 or more teams must join their effort to deliver the ‘working product’ (the balls). And at this point you experience the pains of growing teams and working with multiple teams: how to deliver 1 integrated end-product with multiple sources of work; back to the “storming” team phase; communication issues; hesitance and friction between the teams to adapt and join the work; dealing with ‘urgent’ issues; trying to optimise the flow as a whole. The ballpoint game is used by many Scrum trainers in their training; the scaling ballpoint game probably should become de facto part of a ‘scaling’ agile course.
+
+## Target Audience
+
+This workshop is for everyone who wants to experience the challenge of scaling development teams. People will not have to do anything IT-related. This makes it possible for both technical and non-technical people to work together.
+
+## Links
+
+[a draft set of instructions to play the game](www.scalingballgame.org)
+
+[photos take at the agile games lab belgium](https://www.flickr.com/photos/yveshanoulle/sets/72157661544318386)
+
+[presented at xp-days](http://www.xpday.net/Xpday2015/XPDays/Program/Friday.html#session_301)
+
+[photos taken at xp-days](https://www.flickr.com/photos/yveshanoulle/23579797875/in/album-72157661413130679)
+
+
+## Requirements
+
+The Scaling Ballgame works best, when you have at least 20 People attending the Session. But it easily scales up to 80 People.
+
+* a big room,
+* some flipcharts,
+* markers and
+* possibly a big whiteboard
+* would be great to have as infrastructure.
+
+ 
+## Prerequistits
+
+Participants don't have to arrange anything before the session ;-)
