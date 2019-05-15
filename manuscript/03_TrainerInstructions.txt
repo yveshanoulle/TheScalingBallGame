@@ -12,7 +12,7 @@ You create the first circle with chairs for the participants + chairs for both t
 
 It is very helpful to have at least two flipcharts and something to seperate teams from eachother (e.g. a big board on wheels) in the room.
 
-Have piles of the [observation](#Observation), [feedback](#Feedback) and [feedback questions](#FeedbackQuestions) documents ready. Don't distribute them yet.
+Have piles of the [observation](#Observation), [feedback](#Feedback) and [feedback questions](#Debriefing) documents ready. Don't distribute them yet.
 
 + Put a timer clock in front of you. 
 + Have a printed copy of this document for each trainer.
