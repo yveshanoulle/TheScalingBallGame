@@ -1,4 +1,4 @@
-## The Scaling Ball point game in a small group {#TheScalingBallPointGameSmall}
+## The Scaling Ball Game in smaller groups {#TheScalingBallPointGameSmall}
 
 Although the scaling ball point game is created to play with groups of +20, we have have experiments with smaller groups. In the paragraph we will explain how you can experience some of the scaling with just a small group. 
 
@@ -14,6 +14,7 @@ You let them play for one or two iterations. You write down their best score.
 
 Then you ask them to also start taking on another color balls. This time it’s another player who starts with this new color ball and who also is the last to receive this ball before it goes into the “acceptance bucket”.
 
+<<<<<<< HEAD
 When they start with this, they will need to reorganise themselves and fine other ways to deliver balls.
 
 After a one or two iterations, you tell them that the balls only count in pair. Aka seven red balls and 5 blue balls, only give you 5 points. 
@@ -25,10 +26,39 @@ After that you can still ask them to go to 3 or even 4 color balls all with diff
 Another exercise is to let them play with a number of color balls and then you as facilitator give them yet another color balls and tell them they are bugs. I typically give it to someone who does not take balls. She also has to accept the bugs when they are delivered in full round. 
 
 Another exercise that also works with small teams is to put something in between half of the team. Aka like a coat rack or so. 
+=======
+When they start with this, the attendees will need to reorganise themselves and find other ways to deliver balls.
+
+After one or two iterations, you add another rule: 
+*balls only count in pairs*. Rendering seven red and five blue balls, into five ballpoints. 
+
+This means they have to make sure that both colors are in sync.  
+
+In further rounds you can ask the team to add more colors and color-owners. 
+
+Another exercise is to let them play with a number of colored balls. In the second round you can introduce yet another color: *a bug* (they are sometimes tricky to spot). You'd want to hand it to a team member that is not already responsible for a color. From now on, She is the head of a bug-response-team and has to accept the bugs when they are delivered during the rounds. 
+
+
+Another exercise that also works well with small teams is to put a big object in the center of the team. A coat rack will do just fine. 
+>>>>>>> 73f01759c62517875f3030b130acad78b31b2052
 
 The idea behind it, is that half of the team is offshore. 
 You can organise it, so that with 2 balls, one of the owners is on one side and the other side. Which means that the receiving bucket will be on only one side. So one of the owners will need to be creative on how to deliver the ball. 
 
+<<<<<<< HEAD
 
 
 
+=======
+## The Scaling Ball Game in mid-sized groups {#TheScalingBallPointGameMedium}
+
+If you don't have enough attendees for the explained setup of at least four teams, but have at least 15 people in the room, you can introduce the topic of Devs vs Ops.
+
+When you introduce the latest management decision, that the operations team can only put your "product" into production after they have assessed it, we have the option to experience a "bottleneck"-team.
+
+You can have two teams create balls, but only if they have been checked by the operations team are they counted as points.
+
+In further rounds you can introduce dependencies between the balls of the two development teams (e.g. red and blue balls). You can have them be delivered to "production" in pairs (only a red and a blue ball create points, when they have been released together).
+
+In even later rounds you can have one of the teams be outsourced (introduce a big whiteboard between teams). Usually the outsourced team get the blame from the other two teams (that still see eachother). Decide for yourself if you want to outsource the operations-team or one of the development-teams.
+>>>>>>> 73f01759c62517875f3030b130acad78b31b2052

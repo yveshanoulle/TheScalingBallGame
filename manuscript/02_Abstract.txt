@@ -2,7 +2,7 @@
 
 ##Description
 
- During the game you will experience scaling issues that occur when multiple teams work on the same product. Multiple Teams will look for solutions to scaling issues and experiment in an iterative way with their ideas on solving them..
+ During the game you will experience scaling issues that occur when multiple teams work on the same product. Multiple teams will look for solutions to scaling issues and experiment in an iterative way with their ideas on solving them..
 
 
 ##Expected benefits of participating
@@ -23,7 +23,7 @@ With the exercises in this book and others, we hope to learn more about scaling 
 
 ##Process and timetable: 
 
-+ total time 90 min
++ total time 90 minutes
 + Introduction to scaling issues:  5 minutes
 + Round 1: warm up in local teams 5 minutes
 + Round 2: multiple rounds solving different scaling issues with a partner team (total 20 minutes)  

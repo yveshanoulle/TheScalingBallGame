@@ -4,7 +4,7 @@ In this chapter we will list the sentences that attendees said during retrospect
 
 + Under pressure, all the people in my team started to speak Dutch (a language I do not understand)
 
-+ when a while ball (representing a bug) arrived, everybody screamed “white ball, white ball!”
++ when a white ball (representing a bug) arrived, everybody screamed “white ball, white ball!”
 
 + If you change the team, it’s crap.
 
@@ -30,15 +30,14 @@ Ask with open questions to allow people to share their experiences. You should g
 
 ## Questions on swapping team members:
 
-+ Which parts of team development did you experience in the first rounds
++ Which parts of team development did you experience in the first rounds?
 + How was that different to being put into another team? 
 + Adressing people that swapped team: did your ideas ignite a spark in the new team? Why was that so?
-+ 
 
-# Other questions:
+# Other questions
 
 + Would a team member that was much better at this game than the rest, have made any more progress?
-+ Did you experience Leadership?
++ Did you experience leadership?
 + Who shaped opinions and changes in your team? 
 + Why do you think dropped balls couldn't be picked up again?
 + Which iteration felt the best?

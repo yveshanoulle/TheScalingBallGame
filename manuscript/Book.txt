@@ -5,6 +5,8 @@
 04_BallGames.txt
 04a_TheBallPointGame.txt
 04b_TheOneBallPointGame.txt
+04c_TheKanbanBallPointGame.txt
+04d_TheDevOpsBallPointGame.txt
 04y_HowToRunTheScalingBallGame.txt
 04z_HowToRunTheScalingBallGameInASmallGroup.txt
 05_ThingsLearned.txt

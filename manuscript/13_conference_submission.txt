@@ -11,7 +11,11 @@ Do you have an idea that will make scaling easier? Try your idea in the simulati
 The scaling game is based on a very popular agile game, that has been around for almost 10 years. 
 This version has been presented at Agile Lille, XP-Days, and the Agile Games Lab Belgium.
 
+<<<<<<< HEAD
 During the game you will experience scaling issues that occur when multiple teams work on the same product. Multiple Teams will look for solutions to scaling issues and experiment in an iterative way with their ideas on solving them..
+=======
+During the game you will experience     scaling issues that occur when multiple teams work on the same product. Multiple Teams will look for solutions to scaling issues and experiment in an iterative way with their ideas on solving them..
+>>>>>>> 73f01759c62517875f3030b130acad78b31b2052
 
 It was co-created by Markus Wissekal & Yves Hanoulle.
 
@@ -22,7 +26,11 @@ It was co-created by Markus Wissekal & Yves Hanoulle.
  
 ## Outline/structure of the Session
 
+<<<<<<< HEAD
 Process and timetable: (total time 90 min)
+=======
+Process and timetable: (total time 90 minutes)
+>>>>>>> 73f01759c62517875f3030b130acad78b31b2052
 
 * Introduction to scaling issues: 5 minutes
 * Round 1: warm up in local teams and getting a baseline for the teams' velocity 5 minutes
@@ -70,7 +78,11 @@ This workshop is for everyone who wants to experience the challenge of scaling d
 
 [a draft set of instructions to play the game](www.scalingballgame.org)
 
+<<<<<<< HEAD
 [photos take at the agile games lab belgium](https://www.flickr.com/photos/yveshanoulle/sets/72157661544318386)
+=======
+[photos taken at the agile games lab belgium](https://www.flickr.com/photos/yveshanoulle/sets/72157661544318386)
+>>>>>>> 73f01759c62517875f3030b130acad78b31b2052
 
 [presented at xp-days](http://www.xpday.net/Xpday2015/XPDays/Program/Friday.html#session_301)
 
@@ -79,7 +91,11 @@ This workshop is for everyone who wants to experience the challenge of scaling d
 
 ## Requirements
 
+<<<<<<< HEAD
 The Scaling Ballgame works best, when you have at least 20 People attending the Session. But it easily scales up to 80 People.
+=======
+The Scaling Ballgame works best, when you have at least 20 people attending the session. But it easily scales up to 80 people (with enough co-trainers).
+>>>>>>> 73f01759c62517875f3030b130acad78b31b2052
 
 * a big room,
 * some flipcharts,
@@ -90,4 +106,8 @@ The Scaling Ballgame works best, when you have at least 20 People attending the 
  
 ## Prerequistits
 
+<<<<<<< HEAD
 Participants don't have to arrange anything before the session ;-)
+=======
+Participants don't have to arrange anything before the session. ;-)
+>>>>>>> 73f01759c62517875f3030b130acad78b31b2052

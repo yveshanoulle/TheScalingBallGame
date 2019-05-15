@@ -1,6 +1,6 @@
 # How to run the Scaling Ballgame  {#HowToRunTheGame}
 
-The agile game we based "The Scaling Ballgame" on is called "The Ball Point Game". We cahnged the game in so far, that you can simulate issues that appear in scaled environments by the simple task of throwing balls between attendees/teams.
+The agile game we based "The Scaling Ballgame" on is called "The Ball Point Game". We changed the game in so far, that you can simulate issues that appear in scaled environments by the simple task of throwing balls between attendees/teams.
 
 Before you can start, teams can either emerge, or you make them up based on talks previous to the workshop. Groups of five to eight people work very well. Once the teams have found themselves, they have to find some kind of identity - a name usually helps (also for the highscore chart).
 
@@ -23,42 +23,42 @@ It is important to brief the teams on the original ball point game, as there are
 
 ##Round 2: 
 
-multiple rounds solving different scaling issues with a partner team (total 20 minutes)  
+Multiple rounds solving different scaling issues with a partner team (total 20 minutes).
 
-###Iteration 1: (5 minutes)
+###Iteration 1 (5 minutes):
 
-As soon as attendees are comfortable with the rules, we start into the first round of a "simple" scaled environment. To make it easier for the teams we start in pairs of teams. So if you have four teams attending the workshop, you have two tuples. Adding some kind of story (why we are skaling, what kind of teams the attendees think they are,..) can set the stage for further 
+As soon as attendees are comfortable with the rules, we start into the first round of a "simple" scaled environment. To make it easier for the teams we start in pairs of teams. So if you have four teams attending the workshop, you have two tuples. Adding some kind of story (why we are skaling, what kind of teams the attendees think they are,..) can set the stage for later "events".
 
 Let's focus on a set of two teams: red and blue.
-the red team passes red balls like normal and then at the end the red balls have to be passed to the start of the the blue team, where they have to pass all the way through the blue team until they can be counted as points.
+The red team passes red balls like normal and then at the end the red balls have to be passed to the start of the the blue team, where they have to pass all the way through the blue team until they can be counted as points.
 
 At the same time the blue team passes blue balls around and at the end passes the blue balls to the red team. Point are only given for a ball that passes in every teams hand.
 
-###Iteration 2 (5 minutes) 
+###Iteration 2 (5 minutes):
 
 In this round we can further advance our scaling story by adding, that we had a consultant inhouse that told us to just decouple/desynchronize the teams (and didn't mention to decouple dependencies in the code).
 
-So the red team is “done” as soon as they’ve thrown the red ball somewhere in the direction of the other team -> not responsible for them to actually catch it - here we could have one person per team, that “finishes” the round, as soon as he has thrown the ball to the other group -> strong desynchronisation)
+So the red team is “done” as soon as they’ve thrown the red ball somewhere in the direction of the other team -> not responsible for them to actually catch it - here we could have one person per team, that “finishes” the round, as soon as he has thrown the ball to the other group -> strong desynchronisation).
 
 A special catch of this iteration is to limit the amount of balls teams that teams get, so they have to catch the balls or run after them.
 
-Also add small retrospective (5 minutes)
+Also add small retrospective (5 minutes).
 
-###iteration 3 (5 minutes): 
+###Iteration 3 (5 minutes): 
 
-replay iteration 2 with a new strategy gathered from the small retrospective
+Replay iteration 2 with a new strategy gathered from the small retrospective.
 
 ##Round 3: 
 
 ###Iteration 4 (5 minutes): replay iteration 3 with 4 teams
-small retrospective (5 minutes) (focus on standardisation of the strategy
+Small retrospective (5 minutes) (focus on standardisation of the strategy).
 
 ###Iteration 5 (5 minutes): replay iteration 4 
 Round 4: 
 
-###iteration 6 (5 minutes): one of the teams is behind a screen
+###Iteration 6 (5 minutes): one of the teams is behind a screen
 
-optional difficulties:
+Optional difficulties:
 
 + left handed people are only allowed to send to other left handed people 
 + when a ball falls on the ground, no one can use it any longer
@@ -68,7 +68,7 @@ optional difficulties:
 + you can’t deliver more (because you lack balls)
 + one team member has to be blindfolded 
 + people have to pick one hand to catch and put one hand on their forehead 
-+you can only throw or catch with one hand, you have to switch hands for the other action. 
++ you can only throw or catch with one hand, you have to switch hands for the other action. 
 + disturb the team, tell them you are their new manager and you need information from one of the team members (not changing the rules about everyone touching the balls to gain points)
 
 and many more….
