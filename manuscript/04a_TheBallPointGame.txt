@@ -17,7 +17,7 @@ If you have never heard about the game you might like to know its rules:
 
 + The person that introduces the balls to the system also has to be the last one to touch the ball. 
 
-+ Any ball that goes through the entire team without being dropped counts as one "ball point".
++ Ball that go through the entire team without being dropped count as a "ball point".
 
 You "produce" your balls in iterations of one or two minutes. What matters most is to step back and do a retrospective after every iteration. Only with reflection can a team figure out how to move more balls through the system. 
 
