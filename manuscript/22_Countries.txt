@@ -1,8 +1,13 @@
 # Countries {#Countries}
 
-This is a list of the countries we know the game was played.
+This is a list of the countries we know the game was played in.
 
-+ France
 + Belgium
++ France
 + Germany
++ Poland
++ Spain
++ Switzerland
++ United Kingdom
++ United States
 
