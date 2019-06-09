@@ -6,9 +6,7 @@ This allows me at any time to facilitate an adapted version of the ball point ga
 Now with one ball, the rules are a little bit different. 
 
 
-+ Your team has the mission to "produce" balls. With the goal to produce as many balls as possible. 
-
->> This rule is turned into: “you are delivering one ball as soon as possible.”
++ The Rule to "produce" as many balls as possible is turned into: “you are delivering one ball as soon as possible.”
  
 
 + You do that by passing them from one team member to another. 
