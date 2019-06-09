@@ -2,18 +2,17 @@
 
 
 **Markus Wissekal:**
-I started working in IT in 1999. My journey to become agile began as the technical lead of a start-up in 2002. 
-Skip ahead 5 years I finished my masters in medical computer sciences, 
-when I became more interested in creating effective teams than software. 
-Nowadays I've broadened my skills to also coach departments in an enterprise environment. 
+Born and raised in Vienna, Markus is what you would call an agile Swiss Army knife. 
+Accredited Kanban Trainer, Scrum Professional, Lego Serious Play Facilitator, Systemic Business Coach, 
+Design Thinker, MSc. in Medical Computer Science and founder of a Swiss consultancy are just a few lines on Markus’ CV. 
 
-I'm a part of agile rescue, a losely coupled network of agile experts spread throughout Europe.
-
-I love sharing my experiences - especially, but not limited to  agile topics that are dear to my heart. You probably won't have to keep that in mind, when ever you should meet me at a conference. ;-)
+He has been applying this combination of technology, business and solution-focused thinking for the past ten years in helping SMEs, 
+multi-national corporates and start-ups turn agile. Markus loves visionary project kick-offs, 
+maximizing the effectiveness of his agile teams, coaching the program management in multi-million-dollar environments as well as working with C-level.
 
 Markus' Contact Data:
 
-* [Blog](http://www.agilerescue.de)
+* [Blog](http://coach.und.coach/blog)
 * [Twitter](http://www.twitter.com/themaxxmaster)
 * [Slides](http://www.slideshare.net/themaxxmaster)
 * [Video](http://www.youtube.com/user/themaxxmaster)
