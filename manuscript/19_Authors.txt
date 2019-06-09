@@ -42,12 +42,15 @@ Yearly I spend at least 10 % of my revenue on training and books (You can find d
 
 After my father invented the term PairCoaching, I started to use it to  promote pairwork.
 When I don't work as an agile coach helping companies in EMEA, talking at conferences around the world about agile or the core protocols, I'm using
-agile ideaÕs to raise my 3 kids. (And I use what I learn from them when I work with teams.)
+agile idea's to raise my 3 kids. (And I use what I learn from them when I work with teams.)
 
 Since December 2012, I work from a [walking desk](http://www.hanoulle.be/2013/02/im-working-from-a-walking-desk/). 
 Check out the link to see how many steps I took since then. 
 
-I'm a big fan of parent pair work with their children. I have already given a presentation with my whole family in 2011 and since December 2014, I'm giving pair presentations with my oldest son Joppe. 
+I'm a big fan of parent pair work with their children. The first presentation with my whole family was in 2011. 
+Since December 2014, I'm giving pair presentations with my oldest son Joppe (age 12) in English. 
+in 2016 I started delivering workshops with Bent (Age 12)
+In March 2019 I gave my first pair presentations with my daughter Geike (age 11) for Agile India also in English.
 
 I have also released [anguis](https://www.anguis.be), a (Dutch) android game that I have parent pair programmed with Joppe.
 
