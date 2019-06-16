@@ -1,5 +1,10 @@
 # Conference Submission {#ConferenceSubmission}
-If you plan on submitting "The Scaling Ballgame" to a Conference, here is some Information to make that submission a bit easier
+If you plan on submitting "The Scaling Ballgame" to a Conference, here is some Information to make that submission a bit easier.
+If you do and your session is accepted, please let us know. 
+(And please send us the feedback from the participants) 
+
+Markus & Yves
+
 
 ## Abstract
 
@@ -96,6 +101,6 @@ The Scaling Ballgame works best, when you have at least 20 people attending the 
 * would be great to have as infrastructure.
 
  
-## Prerequistits
+## Prerequisits
 
 Participants don't have to arrange anything before the session. ;-)
