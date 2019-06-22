@@ -1,3 +1,4 @@
 # Ball games {#BallGames}
 In this chapter we will talk about the different versions of the Ball point game. 
+It seems that all these are inspired by the game: group juggle (From the sytems thinking playbook. See the library for the exact reference.) 
 
