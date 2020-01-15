@@ -21,7 +21,13 @@ Have piles of the [observation](#Observation), [feedback](#Feedback) and [feedba
 We have put the default time on the different parts. Use these timings as a guideline. When you notice that you are not following the timings, make sure you adjust on the paper how much time you use for each section. It will give you insight on where to adjust the game. 
 (We use it like a non graphical burndown.) As we know what time the simulation will start at a conference or workshop, we note the exact times on the printed copy. It is more convenient for us and also less thinking involved to write 9:25 instead of +25min beforehand, so that we can use our brains to react to the participants. Yet that is just how we do this.
 
-## Little things in the preparation that make our life easier while playing
+## How to make your life easier
+
+There are a couple of thing you as the facilitator can do, to make the simulation run more smootly.
+
+The one thing that we think the most important is to play the game with at least two facilitators. 
+This might seem contra intuitive at first. As soon as you have experienced how much more a second facilitator adds to the learning and behaviour of the group you will not want to do it alone again.
+To make the communiction between different facilitators work, a things that helps us a lot is a clear understanding of the time. 
 
 + When you play the game, and notice on the clock that you are on track, put a yellow index card somewhere the other trainer can see it.
 
@@ -32,6 +38,8 @@ We have put the default time on the different parts. Use these timings as a guid
 This is a visual technique, that enhances communication between the two trainers without the need to talk. Depending on the amount of photos or notes you take for the recap, you might have plenty of time to talk to each other.
 
 When participants first arrive, ask them to write their name on a tag/badge and put it where others can easily see it. (We prefer sticker badges as they stay visible and easy to read.) As people walk around a lot and play close to one another, you might even want to ask them to add a sticker to their back.
+
+When you have enough participants use some of them to help with the special role of observer. Observers can give better feedback about the behaviour of the group and can also jump into the role of the facilittor of the micro-retrospectives we do after every round.
 
 
 ## Tips for first time presenters
