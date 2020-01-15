@@ -24,9 +24,9 @@
 
 16_Networking.txt
 17_Acknowledgments.txt
-18_OtherAgileGames.txt
 19_Authors.txt
 20_GameFeedback.txt
 21_History.txt
 22_Countries.txt
-23_License.txt
+23_Appendix.txt
+24_License.txt
