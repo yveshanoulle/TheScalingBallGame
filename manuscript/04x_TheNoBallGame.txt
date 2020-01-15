@@ -1,8 +1,8 @@
 ## How to play without Balls at hand  {#NoBalls}
 
-Sometimes we are asked to facilitate this Simulation at Locations where it seems impossible to bring enough Balls to make it work.
+Sometimes we are asked to facilitate this simulation at locations where it seems impossible to bring enough Balls to make it work.
 
-In this case creativity really helps. We have conducted the Game with other Objects than Balls.
+In this case creativity really helps. We have conducted the game with other objects than balls.
 Some office environments have a stack of pens or pencils that can be used, 
 other areas provide wrapped candy (in different colors) and at least once, 
 we were just buying mandarines, oranges, lemons and other fruits that could be eaten/used afterwards.
@@ -13,7 +13,7 @@ Our colleague Martin Seehaus has an even friendlier approach towards the environ
 He uses Lids - but read in his own report and a note of warning:
 
 
-### The ball game without balls? Yepp, it works but be aware of a risk…
+** The ball game without balls? Yepp, it works but be aware of a risk… **
 
 For the original Ball Point Game you need around 25 balls, for the scaled version - a multitude. Lots
 of plastic balls. But I am actually not using real balls when facilitating the Ball Game. I am using plastic

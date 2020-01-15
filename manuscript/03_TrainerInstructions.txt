@@ -21,7 +21,7 @@ Have piles of the [observation](#Observation), [feedback](#Feedback) and [feedba
 We have put the default time on the different parts. Use these timings as a guideline. When you notice that you are not following the timings, make sure you adjust on the paper how much time you use for each section. It will give you insight on where to adjust the game. 
 (We use it like a non graphical burndown.) As we know what time the simulation will start at a conference or workshop, we note the exact times on the printed copy. It is more convenient for us and also less thinking involved to write 9:25 instead of +25min beforehand, so that we can use our brains to react to the participants. Yet that is just how we do this.
 
-**Little things in the preparation that make our life easier while playing:**
+## Little things in the preparation that make our life easier while playing
 
 + When you play the game, and notice on the clock that you are on track, put a yellow index card somewhere the other trainer can see it.
 
@@ -34,7 +34,7 @@ This is a visual technique, that enhances communication between the two trainers
 When participants first arrive, ask them to write their name on a tag/badge and put it where others can easily see it. (We prefer sticker badges as they stay visible and easy to read.) As people walk around a lot and play close to one another, you might even want to ask them to add a sticker to their back.
 
 
-**Tips for first time presenters:**
+## Tips for first time presenters
 
 90 minutes is a lot. You might be tempted to trim the game. Especially on the feedback round. Don't. The recap is the most important part of the game.
 
