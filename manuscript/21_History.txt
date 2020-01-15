@@ -20,3 +20,8 @@ Three days later we had our first draft for #ALE15 and played with mean ideas on
 + Version 0.4 2015 Game Facilitation Lab
 + Version 0.5 2015 Xp Days Benelux
 + Version 0.6 2015 MVP Book version
++ Version 0.65 2017 Added different Versions of Ballgames
++ Version 0.7 2018 More Infos how to facilitate
++ Version 0.75 2019 Revised Information from our learnings
+
+
