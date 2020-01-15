@@ -23,12 +23,12 @@ During the game you will experience scaling issues that occur when multiple team
 
 It was co-created by Markus Wissekal & Yves Hanoulle.
 
-## Format
+**Format**
 
 90 mins Workshop
 
  
-## Outline/structure of the Session
+**Outline/structure of the Session**
 
 
 Process and timetable: (total time 90 minutes)
@@ -44,7 +44,7 @@ Process and timetable: (total time 90 minutes)
 * Round 4: all teams have to collaborate in one large factory 10 minutes
 * Large joined retrospective (at the end) 20 minutes
 
-## Learning Outcome
+**Learning Outcome**
 
 Attendees will face a series of typical scaling challenges like:
 
@@ -72,11 +72,11 @@ Frederik Vannieuwenhuyse, Agile consultant:
 
 Who has attended a Scrum training, probably has played the ball-point game. By passing play balls as quickly as possible in a group of people (and given a few constraints), one experiences a lot about different aspects of team and work organisation. How the team must self-organize, bottlenecks in the flow, how to deal with constraints, how to optimize the flow, team communication, etc. The ‘scaling’ ballgame takes the same game to a higher level: after playing individually by team, 2 or more teams must join their effort to deliver the ‘working product’ (the balls). And at this point you experience the pains of growing teams and working with multiple teams: how to deliver 1 integrated end-product with multiple sources of work; back to the “storming” team phase; communication issues; hesitance and friction between the teams to adapt and join the work; dealing with ‘urgent’ issues; trying to optimise the flow as a whole. The ballpoint game is used by many Scrum trainers in their training; the scaling ballpoint game probably should become de facto part of a ‘scaling’ agile course.
 
-## Target Audience
+**Target Audience**
 
 This workshop is for everyone who wants to experience the challenge of scaling development teams. People will not have to do anything IT-related. This makes it possible for both technical and non-technical people to work together.
 
-## Links
+**Links**
 
 [a draft set of instructions to play the game](www.scalingballgame.org)
 
@@ -89,7 +89,7 @@ This workshop is for everyone who wants to experience the challenge of scaling d
 [photos taken at xp-days](https://www.flickr.com/photos/yveshanoulle/23579797875/in/album-72157661413130679)
 
 
-## Requirements
+**Requirements**
 
 
 The Scaling Ballgame works best, when you have at least 20 people attending the session. But it easily scales up to 80 people (with enough co-trainers).
@@ -101,6 +101,6 @@ The Scaling Ballgame works best, when you have at least 20 people attending the 
 * would be great to have as infrastructure.
 
  
-## Prerequisits
+**Prerequisits for Participants**
 
 Participants don't have to arrange anything before the session. ;-)
