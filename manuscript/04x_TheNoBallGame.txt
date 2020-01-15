@@ -1,4 +1,4 @@
-## How to play without Balls  {#NoBalls}
+## How to play without Balls at hand  {#NoBalls}
 
 Sometimes we are asked to facilitate this Simulation at Locations where it seems impossible to bring enough Balls to make it work.
 
@@ -12,7 +12,8 @@ we were just buying mandarines, oranges, lemons and other fruits that could be e
 Our colleague Martin Seehaus has an even friendlier approach towards the environment.
 He uses Lids - but read in his own report and a note of warning:
 
-The ball game without balls? Yepp, it works but be aware of a risk…
+
+### The ball game without balls? Yepp, it works but be aware of a risk…
 
 For the original Ball Point Game you need around 25 balls, for the scaled version - a multitude. Lots
 of plastic balls. But I am actually not using real balls when facilitating the Ball Game. I am using plastic
@@ -20,17 +21,21 @@ closures or “lids”. From milk bottles, around 4.5 cm in diameter. Easy to ha
 far away when dropped and I can get them for free. Without triggering extra plastic ball production.
 So, I “sell” their use as environmentally friendlier alternative when introducing the game. That lands
 well in Greta times.
+
 But to be honest, being environmentally minded was not the initial trigger for using those lids. That
 was before Greta. The trigger was stress: I had no balls! It was during a Saturday evening when my
 eyes almost popped out because I needed to facilitate that ball game on Monday. But I had no balls. I
 simply could not find them, they were just not there. And stores were closed.
+
 So, in search of a plan B I stumbled upon boxes of plastic closures. We had collected these lids of
 various bottles over the years for some art project. I got them out of the attic and recruited my
 family to help me sorting them. The blue milk bottle lids seemed the handiest ones. We got around a
 hundred of them. Problem solved – almost.
+
 The lids needed to be cleaned. I loaded them into the washer and watched them spinning through
 the machine’s window. That was Sunday and when I took them out of the washer, they were clean.
 But wet.
+
 Using the dryer as next step seemed obvious. On a low temp program (Greta compliant) that went
 well too – I thought. Well, the lids were dry, I did run the game on Monday – all fine. But a couple of
 days later my wife dried white clothes in that same dryer – that did not go that well. Lots of rusty
@@ -38,5 +43,6 @@ spots on the white shirts. Trouble. What I realized was that - as opposed to the
 steel drum - the dryer’s steel drum that was only powder coated. And the edges of these lids worked
 very hard on this coating resulting in the dryer’s drum needing to be replaced. Not really
 environmentally friendly.
+
 Anyway, family peace is intact again. And if you handle the drying step better than me (i.e. letting the
 lids simply dry in the air) you could save money and you could proudly look into Greta’s eyes.

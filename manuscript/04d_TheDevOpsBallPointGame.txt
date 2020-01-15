@@ -18,5 +18,5 @@ The physical wall is a flow constraint, representing cultural, organisational or
 
 The paper cups are intended to represent expertise from operations with a lead time: server commissioning and configuration, it could also be deployment time or time to get through change control.
 
-You can find more Information on John's version in the Appendix
+You can find more [Information](#Appendix) on John's version in the [Appendix](#Appendix)
 
