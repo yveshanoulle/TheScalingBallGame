@@ -19,7 +19,8 @@ Attendees will face a series of typical scaling challenges like:
 
 These days we have a few models for scaling environments. 
 With "The Scaling Ballgame" we want to help participants experience common scaling issues and observe how they affect them. 
-By the exercises in this book and others, we hope to make participants feel actual scaling dynamics, so they can prepare their environment before starting a scaling initiative.
+By the exercises in this book and others, we hope to make participants feel actual scaling dynamics, 
+so they can prepare their environment before starting a scaled initiative.
 
 ##Process and timetable: 
 
