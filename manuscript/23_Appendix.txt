@@ -1,4 +1,6 @@
-# Appendix A
+# Appendix {#Appendix}
+
+## More on the DevOps ball game
 
 You can find more Information like the number of participants, materials and rules for the DevOps Ballgame in this section of the Book.
 
