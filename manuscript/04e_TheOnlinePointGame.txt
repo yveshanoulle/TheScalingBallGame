@@ -129,7 +129,8 @@ Once the game is complete, you have the opportunity to explore learnings with th
 
 Share your learnings and lessons about empirical process control, inspection and adaption and self-organisation.
 
-13. Notes.
+### Notes
+
 - When in-person, it’s easy to walk around and watch the groups and use the dynamics you observe to craft questions for the debrief. When remote, drop into the rooms so that you can share observations between the facilitators to get additional information and observations (It might be useful to communicate that you will be travelling between breakout rooms so that people aren't surprised). Use these to pull further learning from the experience. 
 - For keeping score we use visuals either on the team space or a single place where all teams can see each other scores. 
 - For us there is deeper learning from an inspect and adapt perspective if a team stays together for at least 3 iterations. They get better with each and they experiment. So I try to keep peeps in the same team for at least that. Its only If we are demoing the game to future facilitators that we might swap people, or if there is a specific learning objective that doing that will highlight.
