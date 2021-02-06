@@ -1,7 +1,7 @@
 ## Virtual Magic Ball Game Simulation {#VirtualMagicBallGameSimulation}
 
 This version was created by the [The Remote Coaches](https://theremotecoaches.com/) :
-Kirsten Clacey, Jay Allen Morris and Joanne Perold  
+[Kirsten Clacey](https://twitter.com/KirstenClacey), [Jay Allen Morris](https://twitter.com/jayallenm) and [Joanne Perold](https://twitter.com/joPerold)  
 
 The Virtual Magic Ball Game allows people to learn experientially about empirical process control, inspection, adaption and self-organisation in an enjoyable, interactive way. 
 
