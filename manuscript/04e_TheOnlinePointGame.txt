@@ -28,6 +28,7 @@ As a facilitator you will need to decide and experiment.
 + Video conferencing that allows for breakout rooms. 
 
 
+
 ### Preparation 
 
 Have a look at our [example Google Slide deck](https://docs.google.com/presentation/d/19CJ-bf7lLnDbYZu6LLRWGAAJnGBbhBvJzwNWGYjanFA/edit#slide=id.g7799e37e1e_0_414)
@@ -80,6 +81,7 @@ The ball hasn’t touched each avatar or been in close enough contact
 5. Form Groups. Make sure everyone has added their name to an avatar in some game space, or get each person to copy and paste their avatar into a square, depending on how you have set up the game. Allow time for the last few people to do so.
 
 6. Run a practice round. Depending on your audience, you might want to run a practice round. (This can help with people’s uncertainty, but we often find that the deeper learning comes when they don’t have enough information and they have to just experiment and try things in the first round.)
+
 ### Iterations
 
 7. ITERATION 1:
