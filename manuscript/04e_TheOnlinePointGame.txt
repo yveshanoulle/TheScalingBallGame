@@ -111,22 +111,23 @@ We try to use stories from teams that have actually done this, and we do this to
 
 12. Debrief:
 Once the game is complete, you have the opportunity to explore learnings with the group.
-Begin with open questions such as:
-- How was that?
-- What did you find challenging?
-- What helped your group?
-- Which iteration was the easiest?
-- Which iteration was the hardest?
-- Which iteration did you learn the most? 
 
-Move towards more focused questions on the learning objectives:
+- Begin with open questions such as:
+	- How was that?
+	- What did you find challenging?
+	- What helped your group?
+	- Which iteration was the easiest?
+	- Which iteration was the hardest?
+	- Which iteration did you learn the most? 
 
-- What did you discover about estimations?
-- How did working in iterations help?
-- What from this can we take back to how we work?
-- Did you notice any patterns? 
-- What was surprising? 
-- What was difficult? 
+- Move towards more focused questions on the learning objectives:
+
+	- What did you discover about estimations?
+	- How did working in iterations help?
+	- What from this can we take back to how we work?
+	- Did you notice any patterns? 
+	- What was surprising? 
+	- What was difficult? 
 
 Share your learnings and lessons about empirical process control, inspection and adaption and self-organisation.
 
