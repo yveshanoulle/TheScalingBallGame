@@ -87,38 +87,48 @@ The ball hasn’t touched each avatar or been in close enough contact
 7. ITERATION 1:
 Before people go to their breakout rooms, explain to them the process that will follow:
 
-2 minutes to plan how to make magic balls (you will tell them when it’s over)
-2 minutes to make magic balls (you will tell them when it’s over)
-2 minutes to reflect (you will tell them when it’s over)
+- 2 minutes to plan how to make magic balls (you will tell them when it’s over)
+- 2 minutes to make magic balls (you will tell them when it’s over)
+- 2 minutes to reflect (you will tell them when it’s over)
+
 Then send people in their tables to the relevant breakout groups
 You will need a facilitator per breakout group, or you will need to pull people back to the main room after each 2-minute interval to let them know you’re entering the next phase. We have experimented with using sticky notes (in their works spaces) to communicate with groups on a Miro board, and it was quite enjoyable, but breakouts work better. You need to allow a tiny bit more time for people to get into the breakouts and come back again.
-End of ITERATION 1:
+8. End of ITERATION 1:
 Return everyone to the main group and ask groups to share how many magic balls they made and record this somewhere where all can see
 Tell the group how many iterations remain.
-ITERATION 2:
-Repeat that which you did for iteration one again, this time asking people to estimate how many magic balls they will make before going into their rooms
+
+9. ITERATION 2:
+Repeat that which you did for iteration one again, this time asking people to estimate how many magic balls they will make before going into their rooms.
+
+10. End of ITERATION 2:
 Return everyone once again to share how many magic balls were made.
 We advise 3-4 iterations—judge based on the energy in the group.
-ITERATION 3 
+
+11. ITERATION 3 
 Between iteration 2 and 3 or 3 and 4, we like to tell a story about a team that has made 400 or more Magic Balls.
 We try to use stories from teams that have actually done this, and we do this to see what will happen in the human system when you introduce an element of competition. There is often great learning in what happens in the team, from a dynamics perspective. 
-Debrief:
+
+
+12. Debrief:
 Once the game is complete, you have the opportunity to explore learnings with the group.
 Begin with open questions such as:
-How was that?
-What did you find challenging?
-What helped your group?
-Which iteration was the easiest?
-Which iteration was the hardest?
-Which iteration did you learn the most? 
+- How was that?
+- What did you find challenging?
+- What helped your group?
+- Which iteration was the easiest?
+- Which iteration was the hardest?
+- Which iteration did you learn the most? 
+
 Move towards more focused questions on the learning objectives:
-What did you discover about estimations?
-How did working in iterations help?
-What from this can we take back to how we work?
-Did you notice any patterns? 
-What was surprising? 
-What was difficult? 
+- What did you discover about estimations?
+- How did working in iterations help?
+- What from this can we take back to how we work?
+- Did you notice any patterns? 
+- What was surprising? 
+- What was difficult? 
+
 Share your learnings and lessons about empirical process control, inspection and adaption and self-organisation.
+
 Notes.
  When in-person, it’s easy to walk around and watch the groups and use the dynamics you observe to craft questions for the debrief. When remote, drop into the rooms so that you can share observations between the facilitators to get additional information and observations (It might be useful to communicate that you will be travelling between breakout rooms so that people aren't surprised). Use these to pull further learning from the experience. 
 For keeping score we use visuals either on the team space or a single place where all teams can see each other scores. 
