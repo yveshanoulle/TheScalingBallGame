@@ -120,6 +120,7 @@ Begin with open questions such as:
 - Which iteration did you learn the most? 
 
 Move towards more focused questions on the learning objectives:
+
 - What did you discover about estimations?
 - How did working in iterations help?
 - What from this can we take back to how we work?
