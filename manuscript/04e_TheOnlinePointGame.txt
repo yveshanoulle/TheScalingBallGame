@@ -1,3 +1,117 @@
-## The Online point game  {#TheOnlinePointGame}
+## Virtual Magic Ball Game Simulation {#VirtualMagicBallGameSimulation}
 
-Here will come the online version of the ball game. 
+This version was created by the [The Remote Coaches](https://theremotecoaches.com/) :
+Kirsten Clacey, Jay Allen Morris and Joanne Perold  
+
+The Virtual Magic Ball Game allows people to learn experientially about empirical process control, inspection, adaption and self-organisation in an enjoyable, interactive way. 
+
+Below are some instructions for how to run this game virtually.
+
+### People constraints
++ Min - 4
+- Max - ? Unknown
+
+We have run this very successfully with groups of 6. We realise that more than 6 in a group, especially if they don’t know each other, gets very difficult in a remote space, so keep the groups small, but you can have multiple groups. 
+
+We ran a Miro version with up to 4 groups of 6 so we have experimented with 24 people, but I believe you could do it with more. When we ran it with 24 people we only had 2 facilitators so we sent teams into breakout rooms and left them to self organise. 
+
+As a facilitator you will need to decide and experiment. You can either have a facilitator per group or you can let people self organise and pop into some of the groups. If you don’t have enough facilitators you could ask for observer volunteers and then get the observers to share their observations in the debrief. 
+
+One option is to run rounds where different people each take turns to experience the game while the others observe. We have used that option in some meetups to allow people to get an understanding of the game and to experience it. 
+
+### Tool requirements
+
++ Google Slides or an interactive whiteboard (such as Mural or Miro)
++ Video conferencing that allows for breakout rooms. 
+
+
+### Preparation 
+
+feel free to be inspired by our [example Google Slide deck available](https://docs.google.com/presentation/d/19CJ-bf7lLnDbYZu6LLRWGAAJnGBbhBvJzwNWGYjanFA/edit#slide=id.g7799e37e1e_0_414)
+
+The following artefacts will need to be prepared prior to the session (either as sections on a virtual whiteboard or separate slides in Google Slides):
+
+1. Avatar slide: Add a selection of avatars and space for participants to pick one to represent them for the duration of the exercise. They will choose an avatar by adding their name in the text field below it. Options:
+You can do this in it’s own space on the board or you can have the avatars set up in the game spaces for each group (instructions below will explain more).
+
+2. Instructions slide: Visualise the constraints of the ball game for easy reference. In virtual activities it is especially important to have written instructions in case people miss them when shared verbally (for technical reasons etc.).
+
+3. Ball play area: Set up slides/spaces with empty squares and circles to represent balls for each person. Each group will have a team space that they will work with. These will be the virtual spaces in which people pass the ball around. 
+
+Options:
+
++ Pre-populate these spaces with different avatars and get people to choose an avatar in a group (see images below). 
+
++ Leave these blank and when people have chosen an avatar they can copy them into the groups. Example of a 3 person group below: 
+
+
+4. Planning and reflection space: Add space and sticky notes for teams to do planning and reflection between rounds. (An observation is that not many teams use this, and so we often ask about it in the debrief to explore what stopped them). 
+
+### Instructions
+
+1. Pick an avatar: Ask participants to choose an avatar by writing their name under the avatar in one of the already created groups or on the avatar slide (depending on what you have decided). 
+
+2. Paint the picture: Focus attention on a picture of a factory and tell a little story about a factory that makes the most wonderful magic balls. Get creative in how you tell this story - invite a little fun. Here’s how we like to do it:
+We usually tell a story about one of us being a CEO and each group being a team. 
+In the story, share the goal with the goal to make as many Magic balls as possible in 2 minutes. 
+“How do you make Magic Balls I hear? Well, I’m so glad you asked that is a great question.” We might add some cheesy humour. 
+We then explain how all people are Magic and when they come into contact with a Ball real or virtual, they translate their magic into that ball and by the time the whole team has shared magic, you have a magic ball. 
+We then share how a ball may lose the magic. It’s super easy to make a magic ball, but magic can be lost and then it doesn’t count. 
+
+3. Explain the constraints: Explain how balls lose magic and demo as you go. Below are the conditions which stop a ball from being magical. The ball loses magic if it:
+Stops on a line (this would be the border of the square that an avatar would find themselves in)
+
+Moves anti-clockwise
+Stops outside a square
+
+Different colour balls touch each other.
+
+The ball hasn’t touched each avatar or been in close enough contact
+
+
+4. Introduce participants to the game area: Explain how the game will work at a high level. Demo inside the game area so that people understand the basics, but don’t give them any details about what kind of process to construct. For many people this might be unsettling, but the objectives are to mimic the uncertain spaces that we often find ourselves working in. The main objectives for learning are about inspection, adaptation and transparency. They will need to inspect, and adapt and improve their process. 
+
+5. Form Groups. Make sure everyone has added their name to an avatar in some game space, or get each person to copy and paste their avatar into a square, depending on how you have set up the game. Allow time for the last few people to do so.
+
+6. Run a practice round. Depending on your audience, you might want to run a practice round. (This can help with people’s uncertainty, but we often find that the deeper learning comes when they don’t have enough information and they have to just experiment and try things in the first round.)
+### Iterations
+
+7. ITERATION 1:
+Before people go to their breakout rooms, explain to them the process that will follow:
+
+2 minutes to plan how to make magic balls (you will tell them when it’s over)
+2 minutes to make magic balls (you will tell them when it’s over)
+2 minutes to reflect (you will tell them when it’s over)
+Then send people in their tables to the relevant breakout groups
+You will need a facilitator per breakout group, or you will need to pull people back to the main room after each 2-minute interval to let them know you’re entering the next phase. We have experimented with using sticky notes (in their works spaces) to communicate with groups on a Miro board, and it was quite enjoyable, but breakouts work better. You need to allow a tiny bit more time for people to get into the breakouts and come back again.
+End of ITERATION 1:
+Return everyone to the main group and ask groups to share how many magic balls they made and record this somewhere where all can see
+Tell the group how many iterations remain.
+ITERATION 2:
+Repeat that which you did for iteration one again, this time asking people to estimate how many magic balls they will make before going into their rooms
+Return everyone once again to share how many magic balls were made.
+We advise 3-4 iterations—judge based on the energy in the group.
+ITERATION 3 
+Between iteration 2 and 3 or 3 and 4, we like to tell a story about a team that has made 400 or more Magic Balls.
+We try to use stories from teams that have actually done this, and we do this to see what will happen in the human system when you introduce an element of competition. There is often great learning in what happens in the team, from a dynamics perspective. 
+Debrief:
+Once the game is complete, you have the opportunity to explore learnings with the group.
+Begin with open questions such as:
+How was that?
+What did you find challenging?
+What helped your group?
+Which iteration was the easiest?
+Which iteration was the hardest?
+Which iteration did you learn the most? 
+Move towards more focused questions on the learning objectives:
+What did you discover about estimations?
+How did working in iterations help?
+What from this can we take back to how we work?
+Did you notice any patterns? 
+What was surprising? 
+What was difficult? 
+Share your learnings and lessons about empirical process control, inspection and adaption and self-organisation.
+Notes.
+ When in-person, it’s easy to walk around and watch the groups and use the dynamics you observe to craft questions for the debrief. When remote, drop into the rooms so that you can share observations between the facilitators to get additional information and observations (It might be useful to communicate that you will be travelling between breakout rooms so that people aren't surprised). Use these to pull further learning from the experience. 
+For keeping score we use visuals either on the team space or a single place where all teams can see each other scores. 
+For us there is deeper learning from an inspect and adapt perspective if a team stays together for at least 3 iterations. They get better with each and they experiment. So I try to keep peeps in the same team for at least that. Its only If we are demoing the game to future facilitators that we might swap people, or if there is a specific learning objective that doing that will highlight.
