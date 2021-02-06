@@ -36,10 +36,10 @@ The following artefacts will need to be prepared prior to the session (either as
 
 1. Avatar slide: Add a selection of avatars and space for participants to pick one to represent them for the duration of the exercise. They will choose an avatar by adding their name in the text field below it. 
 
-Options:
+	Options:
 
-+ You can do this in it’s own space on the board 
-+ or you can have the avatars set up in the game spaces for each group (instructions below will explain more).
+	+ You can do this in it’s own space on the board 
+	+ or you can have the avatars set up in the game spaces for each group (instructions below will explain more).
 
 2. Instructions slide: Visualise the constraints of the ball game for easy reference. In virtual activities it is especially important to have written instructions in case people miss them when shared verbally (for technical reasons etc.).
 
