@@ -66,14 +66,12 @@ We then explain how all people are Magic and when they come into contact with a 
 We then share how a ball may lose the magic. It’s super easy to make a magic ball, but magic can be lost and then it doesn’t count. 
 
 3. Explain the constraints: Explain how balls lose magic and demo as you go. Below are the conditions which stop a ball from being magical. The ball loses magic if it:
-Stops on a line (this would be the border of the square that an avatar would find themselves in)
 
-Moves anti-clockwise
-Stops outside a square
-
-Different colour balls touch each other.
-
-The ball hasn’t touched each avatar or been in close enough contact
+	- Stops on a line (this would be the border of the square that an avatar would find themselves in)
+	- Moves anti-clockwise
+	- Stops outside a square
+	- Different colour balls touch each other.
+	- The ball hasn’t touched each avatar or been in close enough contact
 
 
 4. Introduce participants to the game area: Explain how the game will work at a high level. Demo inside the game area so that people understand the basics, but don’t give them any details about what kind of process to construct. For many people this might be unsettling, but the objectives are to mimic the uncertain spaces that we often find ourselves working in. The main objectives for learning are about inspection, adaptation and transparency. They will need to inspect, and adapt and improve their process. 
