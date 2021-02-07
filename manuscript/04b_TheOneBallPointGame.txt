@@ -10,8 +10,9 @@ Now with one ball, the rules are a little bit different.
 |---------------------------------------------|---------------------------------------------| 
 | "produce" as many balls as possible         | you are delivering one ball as soon as      |
 |                                             | possible.                                   |
+| You do that by passing them from one team.  | Stays the same                              | 
+| member to another.                          |                                             |
 
-| You do that by passing them from one team member to another. | Stays the same|
 |Balls must go through everyones hands in the team with air time (so there is a chance for the ball to be accidentally dropped). . | Same rule, although I’m usually less strict on the “not possible to let it fall rule”.|
 | No ball can be passed to your immediate neighbour. | Stays the same Very strict on this one.|
 | The person that introduces the balls to the system also has to be the last one to touch the ball.  | Stays the same|
