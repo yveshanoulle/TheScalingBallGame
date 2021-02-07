@@ -26,15 +26,9 @@ Now with one ball, the rules are a little bit different.
 | "ball point".                               | ball is launched, and at the moment a ball  |
 |                                             |	passes through the entire team, the time    |
 |                                             | stops.                                      |
-
-
-
-
-
-| We don’t count ball point, we count cycle time. We start the moment the first ball is launched, and at the moment a ball passes through the entire team, the time stops. |
-|You "produce" your balls in iterations of one or two minutes. | We don’t have iterations in time. Most teams deliver a ball in less than one minute. 
-The fastest teams go below 1 second.|
-
+| You "produce" your balls in iterations of   | We don’t have iterations in time. Most      |
+| one or two minutes.                         | teams deliver a ball in less than one       |
+|                                             | minute. The fastest teams go below 1 second.|
 
 
 What matters most is to step back and do a retrospective after every iteration. 
