@@ -5,7 +5,7 @@ This allows me at any time to facilitate an adapted version of the ball point ga
 
 Now with one ball, the rules are a little bit different. 
 
-{width=default}
+{width= "wide"}
 | The Ball Point Game                         | One Ball Point Game                         |
 |---------------------------------------------|---------------------------------------------| 
 | "produce" as many balls as possible         | you are delivering one ball as soon as      |
