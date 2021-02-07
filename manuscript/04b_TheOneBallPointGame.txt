@@ -12,11 +12,26 @@ Now with one ball, the rules are a little bit different.
 |                                             | possible.                                   |
 | You do that by passing them from one team.  | Stays the same                              | 
 | member to another.                          |                                             |
+| Balls must go through everyones hands in    | Same rule, although I’m usually less        |
+| the team with air time (so there is a       | strict on the “not possible to let it fall  |
+| chance for the ball to be accidentally      |	rule”.                                      |
+| dropped).   				      |                                             |
+| No ball can be passed to your immediate     | Stays the same Very strict on this one.     |
+| neighbour.                                  |                                             |
+| The person that introduces the balls to the | Stays the same.                             |
+| system also has to be the last one to touch |                                             |
+| the ball.                                   |                                             |
+| Any ball that goes through the entire team  | We don’t count ball point, we count         |
+| without being dropped counts as one         | cycle time. We start the moment the first   |
+| "ball point".                               | ball is launched, and at the moment a ball  |
+|                                             |	passes through the entire team, the time    |
+|                                             | stops.                                      |
 
-|Balls must go through everyones hands in the team with air time (so there is a chance for the ball to be accidentally dropped). . | Same rule, although I’m usually less strict on the “not possible to let it fall rule”.|
-| No ball can be passed to your immediate neighbour. | Stays the same Very strict on this one.|
-| The person that introduces the balls to the system also has to be the last one to touch the ball.  | Stays the same|
-| Any ball that goes through the entire team without being dropped counts as one "ball point".  | We don’t count ball point, we count cycle time. We start the moment the first ball is launched, and at the moment a ball passes through the entire team, the time stops. |
+
+
+
+
+| We don’t count ball point, we count cycle time. We start the moment the first ball is launched, and at the moment a ball passes through the entire team, the time stops. |
 |You "produce" your balls in iterations of one or two minutes. | We don’t have iterations in time. Most teams deliver a ball in less than one minute. 
 The fastest teams go below 1 second.|
 
