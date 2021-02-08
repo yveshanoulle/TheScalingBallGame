@@ -71,11 +71,14 @@ We then share how a ball may lose the magic. It’s super easy to make a magic b
 3. Explain the constraints: Explain how balls lose magic and demo as you go. Below are the conditions which stop a ball from being magical. The ball loses magic if it:
 
 	- Stops on a line (this would be the border of the square that an avatar would find themselves in)
+
 	![Stops on a line](images/Remote3.png) 
 	- Moves anti-clockwise
 	- Stops outside a square
+
 	![Stops outside a square](images/Remote4.png)
 	- Different colour balls touch each other.
+
 	![Different colour balls touch each other](images/Remote5.png)
 	- The ball hasn’t touched each avatar or been in close enough contact
 
