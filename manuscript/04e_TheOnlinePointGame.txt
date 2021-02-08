@@ -41,7 +41,7 @@ The following artefacts will need to be prepared prior to the session (either as
 	+ You can do this in it’s own space on the board 
 	+ or you can have the avatars set up in the game spaces for each group (instructions below will explain more).
 
-![Avatar Example](images/Remote1.png) 
+	![Avatar Example](images/Remote1.png) 
 
 2. Instructions slide: Visualise the constraints of the ball game for easy reference. In virtual activities it is especially important to have written instructions in case people miss them when shared verbally (for technical reasons etc.).
 
@@ -52,7 +52,7 @@ The following artefacts will need to be prepared prior to the session (either as
 	+ Pre-populate these spaces with different avatars and get people to choose an avatar in a group (see images below). 
 	+ Leave these blank and when people have chosen an avatar they can copy them into the groups.  
 
-![Example of a 3 person group](images/Remote2.png) 
+	![Example of a 3 person group](images/Remote2.png) 
 
 
 4. Planning and reflection space: Add space and sticky notes for teams to do planning and reflection between rounds. (An observation is that not many teams use this, and so we often ask about it in the debrief to explore what stopped them). 
