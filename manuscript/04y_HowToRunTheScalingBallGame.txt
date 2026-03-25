@@ -180,17 +180,17 @@ Timeline
 
 | Round | Iteration | Total time | Explaination | Play | Mini Retro | Group Retro |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Rnd 1** | Iteration 1 | 7 | 2 | 3 | 2 | 0 |
-| | Iteration 2 | 6 | 1 | 3 | 2 | 0 |
-| | Iteration 3 | 12 | 1 | 3 | 2 | 6 |
+| **Rnd 1** | Iter 1 | 7 | 2 | 3 | 2 | 0 |
+| | Iter 2 | 6 | 1 | 3 | 2 | 0 |
+| | Iter 3 | 12 | 1 | 3 | 2 | 6 |
 | **Rnd 2** | Iteration 1 | 7 | 2 | 3 | 2 | 0 |
-| | Iteration 2 | 6 | 1 | 3 | 2 | 0 |
-| | Iteration 3 | 12 | 1 | 3 | 2 | 6 |
+| | Iter 2 | 6 | 1 | 3 | 2 | 0 |
+| | Iter 3 | 12 | 1 | 3 | 2 | 6 |
 | **Rnd 3** | Iteration 1 | 7 | 2 | 3 | 2 | 0 |
-| | Iteration 2 | 6 | 1 | 3 | 2 | 0 |
-| | Iteration 3 | 12 | 1 | 3 | 2 | 6 |
+| | Iter 2 | 6 | 1 | 3 | 2 | 0 |
+| | Iter 3 | 12 | 1 | 3 | 2 | 6 |
 | **Rnd 4** | Iteration 1 | 6 | 1 | 3 | 2 | 0 |
-| | Iteration 2 | 7 | 2 | 3 | 2 | 0 |
-| | Iteration 3 | 12 | 1 | 3 | 2 | 6 |
+| | Iter 2 | 7 | 2 | 3 | 2 | 0 |
+| | Iter 3 | 12 | 1 | 3 | 2 | 6 |
 | **Retro** | no iteration | 20 | 0 | 0 | 5 | 15 |
 | **Total time game** | | **120** | | | | |
