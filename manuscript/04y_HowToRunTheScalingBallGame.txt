@@ -6,7 +6,7 @@ Before you can start, teams can either emerge, or you make them up based on talk
 
 As soon as the teams emerged, you have to advise them, that they not only can change their "process" but in some degrees also their environment. This is due to the fact, that some infrastructure you find in seminar rooms can be a risk to health or team performance (like in real life) ;-)
 
-##Round 1  [1 team] :
+## Round 1  [1 team] :
 
 As it is important that everyone understand the rules of the orignal ballpoint game, we start with the normal version.
 An easy option is to write the rules on one of your flip-charts and have them visible for future reference.
@@ -15,21 +15,21 @@ One of the outcomes of the first round is a team's velocity. We "officially" exp
 (total 25 minutes)
 When teams deliver less balls they might be punished. (e.g. by adding a supervisor).
 
-###Iteration 1 (2+3+2 minutes):
+### Iteration 1 (2+3+2 minutes):
 - We play per team. (not cross teams)
 - With one ball: pass the ball as quick as possible, someone collects the time.
 - Explanation of the rules
 - Play
 - Mini retro in the team
 
-###Iteration 2 (1+3+2 minutes):
+### Iteration 2 (1+3+2 minutes):
 - We play per team. (not cross teams)
 - With many balls of the same color: we pass as many balls as possible in 3 minutes
 - Explanation of the rules
 - play
 - mini retro in the team
 
-###Iteration 3 (1+3+2+6minutes):
+### Iteration 3 (1+3+2+6minutes):
 - We play per team. (not cross teams)
 - With many balls of the same color: we pass as many balls as possible in 3 minutes
 - Explanation of the rules
@@ -40,11 +40,11 @@ When teams deliver less balls they might be punished. (e.g. by adding a supervis
 
 ![One way to track scores](images/Ballpoints.png) 
 
-##Round 2: [2 team's] :
+## Round 2: [2 team's] :
 
 Multiple rounds solving different scaling issues with a partner team (total 19 minutes).
 
-###Iteration 1 (2+3+2 minutes):
+### Iteration 1 (2+3+2 minutes):
 
 As soon as attendees are comfortable with the rules, we start into the first round of a "simple" scaled environment. To make it easier for the teams we start in pairs of teams. So if you have four teams attending the workshop, you have two tuples. Adding some kind of story (why we are scaling, what kind of teams the attendees think they are,..) can set the stage for later "events".
 
@@ -59,7 +59,7 @@ At the same time the blue team passes blue balls around and at the end passes th
 - play
 - mini retro in the team
 
-###Iteration 2 (1+3+2 minutes):
+### Iteration 2 (1+3+2 minutes):
 
 In this round we can further advance our scaling story by adding, that we had a consultant inhouse that told us that blue balls made no sense without red balls. This means we only count pair of balls. 
 
@@ -85,10 +85,10 @@ Replay iteration 2 with a new strategy gathered from the small retrospective.
 - mini retro in the team
 - group retro with eveyone
 
-##Round 3: 
+## Round 3: 
 Optional round played when 2 hours instead 90 minutes
 
-###Iteration 1 (2+3+2 minutes): 
+### Iteration 1 (2+3+2 minutes): 
 
 replay last iteration with 2 balls per team
 - We play with pair teams 
@@ -98,7 +98,7 @@ replay last iteration with 2 balls per team
 - mini retro in the team
 
 
-###Iteration 2 (1+3+2 minutes): 
+### Iteration 2 (1+3+2 minutes): 
 
 Now the facilitators introduce bugs. Bugs have priority and when a bug falls on the ground, the team looses all the balls in play and played in this iteration. 
 
@@ -110,7 +110,7 @@ Now the facilitators introduce bugs. Bugs have priority and when a bug falls on 
 
 ==> you need 1 facilitator per 4 teams and you give at random moments a white ball (bug) to random people and they also have pass the full team.
 
-###Iteration 3 (1+3+2+6 minutes): 
+### Iteration 3 (1+3+2+6 minutes): 
 We replay the last iteration after improvements. We mix teams
 - We play with pair teams 
 - With many balls of the two colors per team: we pass as many balls as possible in 3 minutes
@@ -121,7 +121,7 @@ We replay the last iteration after improvements. We mix teams
 
 ==> you need 1 facilitator per 4 teams and you give at random moments a white ball (bug) to random people and they also have pass the full team.
 
-##Round 4: 
+## Round 4: 
 
 ###Iteration 1 (2+3+2 minutes): 
 replay last iteration with 4 teams
@@ -139,7 +139,7 @@ replay last iteration with 4 teams
 - play
 - mini retro in the team
 
-###Iteration 3 (1+3+2+6 minutes): 
+### Iteration 3 (1+3+2+6 minutes): 
 We replay the last iteration after improvements. Every team can select a teammember from another team.
 - We play with 4 teams (one of them behind a screen) 
 - With many balls of the two colors per team: we pass as many balls as possible in 3 minutes
@@ -148,7 +148,7 @@ We replay the last iteration after improvements. Every team can select a teammem
 - mini retro in the team
 - group retro with 4 teams
 
-##Group retro: 
+## Group retro: 
 When time allows we have a large retro of 20 minutes. 
 Questions to ask:
 
