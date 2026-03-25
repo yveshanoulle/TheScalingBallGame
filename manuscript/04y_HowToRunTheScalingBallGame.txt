@@ -40,7 +40,7 @@ When teams deliver less balls they might be punished. (e.g. by adding a supervis
 
 ![One way to track scores](images/Ballpoints.png) 
 
-## Round 2: [2 team's] :
+## Round 2: (2 team's) :
 
 Multiple rounds solving different scaling issues with a partner team (total 19 minutes).
 
@@ -75,7 +75,7 @@ The red team is “done” as soon as they’ve thrown the red ball somewhere in
 
 Limit the amount of balls teams that teams get, so they have to catch the balls or run after them.
 
-###Iteration 3 (1+3+2+6 minutes): 
+### Iteration 3 (1+3+2+6 minutes): 
 
 Replay iteration 2 with a new strategy gathered from the small retrospective.
 - We play with pair teams 
@@ -123,7 +123,7 @@ We replay the last iteration after improvements. We mix teams
 
 ## Round 4: 
 
-###Iteration 1 (2+3+2 minutes): 
+### Iteration 1 (2+3+2 minutes): 
 replay last iteration with 4 teams
 - We play with 4 teams 
 - With many balls of the two colors per team: we pass as many balls as possible in 3 minutes
@@ -175,3 +175,22 @@ Optional difficulties:
 + disturb the team, tell them you are their new manager and you need information from one of the team members (not changing the rules about everyone touching the balls to gain points)
 
 and many more….
+
+Timeline
+
+| Round | Iteration | Total time | Explaination | Play | Mini Retro | Group Retro |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: |
+| **Round 1** | Iteration 1 | 7 | 2 | 3 | 2 | 0 |
+| | Iteration 2 | 6 | 1 | 3 | 2 | 0 |
+| | Iteration 3 | 12 | 1 | 3 | 2 | 6 |
+| **Round 2** | Iteration 1 | 7 | 2 | 3 | 2 | 0 |
+| | Iteration 2 | 6 | 1 | 3 | 2 | 0 |
+| | Iteration 3 | 12 | 1 | 3 | 2 | 6 |
+| **Round 3** | Iteration 1 | 7 | 2 | 3 | 2 | 0 |
+| | Iteration 2 | 6 | 1 | 3 | 2 | 0 |
+| | Iteration 3 | 12 | 1 | 3 | 2 | 6 |
+| **Round 4** | Iteration 1 | 6 | 1 | 3 | 2 | 0 |
+| | Iteration 2 | 7 | 2 | 3 | 2 | 0 |
+| | Iteration 3 | 12 | 1 | 3 | 2 | 6 |
+| **Retro** | no iteration | 20 | 0 | 0 | 5 | 15 |
+| **Total time game** | | **120** | | | | |
