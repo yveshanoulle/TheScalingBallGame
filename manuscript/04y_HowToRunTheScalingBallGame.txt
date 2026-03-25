@@ -158,10 +158,7 @@ Questions to ask:
 - How do you sync teams?
 - 
 
-
-
-
-Optional difficulties:
+## Optional difficulties:
 
 + left handed people are only allowed to send to other left handed people 
 + when a ball falls on the ground, no one can use it any longer
@@ -176,7 +173,7 @@ Optional difficulties:
 
 and many more….
 
-Timeline
+## Timeline
 
 | Round | Iteration | Time | Explain | Play | Retro | Group Retro |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
